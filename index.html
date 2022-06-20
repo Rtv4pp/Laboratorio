@@ -1,57 +1,93 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-	<head>
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <!--Scrpt mudar src iframe-->
+    <script>
+      function premiere1 (){
+      document.getElementById("myiframe").src = "https://sinalpublico.com/player3/ch.php?canal=premiereclubes";
+      function premiere2 (){
+      document.getElementById("myiframe").src = "https://sinalpublico.com/player3/ch.php?canal=premiere2";
+      }
+      function premiere3 (){
+      document.getElementById("myiframe").src = "https://sinalpublico.com/player3/ch.php?canal=premiere3";
+      }
+      function premiere4 (){
+      document.getElementById("myiframe").src = "https://sinalpublico.com/player3/ch.php?canal=premiere4";
+      }
+      function premiere5 (){
+      document.getElementById("myiframe").src = "https://sinalpublico.com/player3/ch.php?canal=premiere5";
+      }
+      function premiere6 (){
+      document.getElementById("myiframe").src = "https://sinalpublico.com/player3/ch.php?canal=premiere6";
+      }
+    </script>
+    <style>
+      body {
+        background-color: gray;
+        padding: 0px;
+      }
+      main {
+        background-color: white;
+        padding: 10px;
+        border-radius: 10px;
+        min-width:210px;
+        max-width: 900px;
+        margin:auto;
+      }
+      div.logos {
+        width: 80px;
+        display: inline-block;
+        text-align: center;
+        font-size:13px;
+        padding: 5px;
+        background-color: gray;
+        margin-top:5px;
+        border-radius: 10px;
+        color:white;
+      }
+      #myiframe {
+        width: 100%;
+        height: 300px;
+      }
+      img{
+        width: 80px;
+      }
 
-	<meta charset="utf-8">
-	<title>Rseries</title>
-  <link rel="stylesheet" type="text/css" href="style.css">
-	<meta name="description">
-
-	</head>
-		<body background="">
-<section>
-<h1>Rseries</h1>
-<h3>
-	<nav>
-<ul>
-	<li><a href="index.html">Inicio</a></li>
-	<li><a href="Contato.html">Contato</a></li>
-	<li><a href="filmes.html">Filmes</a></li>
-	<li><a href="series.html">Series</a></li>
-</ul>
-</nav>
-</h3>
-<hr>
-</section>
-<section>
-	<center><h1>Series</h1></center>
-	<a href="Lacasa.html">
-	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJobaijjJQ7kLtCdiaMVPIeaZleJtio0Vx3g&usqp=CAU" title="Um homem misterioso que atende pelo nome de El Profesor (“Professor”), está planejando o maior assalto do século. A fim de realizar o ambicioso plano ele recruta uma gangue de oito pessoas com certas habilidades que não tem nada a perder. O objetivo é infiltrar na Casa da Moeda, de modo que eles possam imprimir 2,4 bilhões de euros. Para fazer isso eles precisam de onze dias de reclusão, durante o qual eles vão ter que lidar com sessenta e sete reféns e as forças da Polícia de Elite, com cenas de muita ação e planos brilhantes de El Profesor.">
-</a>
-<a href="stranger.html">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJobaijjJQ7kLtCdiaMVPIeaZleJtio0Vx3g&usqp=CAU" title="stranger things">
-</a>
-<a href="lucifer.html">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJobaijjJQ7kLtCdiaMVPIeaZleJtio0Vx3g&usqp=CAU" title="Lucifer serie" width="184" height="273">
-</a>
-</section>
-<hr>
-<section>
-<center>
-	<h1>Filmes</h1>
-</center>
-<img src="Alice.png" title="A jovem segue seu namorado, Jack, o qual é sequestrado e levado ao País das Maravilhas, cidade subterrânea governada pela malvada Rainha de Copas, interpretada pela vencedora do Oscar Kathy Bates, a quem não agrada a chegada de Alice. Alice descobre que uma organização secreta trabalha para a Rainha sequestrando pessoas do mundo real e tirando dos seres humanos suas emoções.">
-<img src="Malevola.png" title="Baseado no conto da Bela Adormecida, o filme conta a história de Malévola , a protetora do reino dos Moors. Desde pequena, esta garota com chifres e asas mantém a paz entre dois reinos diferentes, até se apaixonar pelo garoto Stefan. Os dois iniciam um romance, mas Stefan tem a ambição de se tornar líder do reino vizinho, e abandona Malévola para conquistar seus planos. A garota torna-se uma mulher vingativa e amarga, que decide amaldiçoar a filha recém-nascida de Stefan, Aurora. Aos poucos, no entanto, Malévola começa a desenvolver sentimentos de amizade em relação à jovem e pura Aurora.">
-<hr>
-</section>
-<section>
-<center>
-<h1>Mais visitados</h1>
-</center>
-<a href="Lacasa.html">
-<img src="1.png" title="Um homem misterioso que atende pelo nome de El Profesor (“Professor”), está planejando o maior assalto do século. A fim de realizar o ambicioso plano ele recruta uma gangue de oito pessoas com certas habilidades que não tem nada a perder. O objetivo é infiltrar na Casa da Moeda, de modo que eles possam imprimir 2,4 bilhões de euros. Para fazer isso eles precisam de onze dias de reclusão, durante o qual eles vão ter que lidar com sessenta e sete reféns e as forças da Polícia de Elite, com cenas de muita ação e planos brilhantes de El Profesor.">
-</a>
-</section>
-<hr>
-		</body>
+    </style>
+  </head>
+  <body>
+    <main>
+      <div>
+       <iframe  allowfullscreen webkitallowfullscreen mozallowfullscreen  class="frame" fullscreen *; allow="encrypted-media" gesture="media"  target="Player" id="myiframe" name=Player "" src="https://sinalpublico.com/player3/ch.php?canal=premiereclubes" frameborder=0 scrolling=no> </iframe>
+      </div>
+      <center>
+      <section class="Botoes">
+          <div class="logos">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMhVKY1Gbcov5QM_oxmhrisk3GGtIQtAyU7g&usqp=CAU" onclick="premiere1()"></img>
+          <span>Premiere 1</span>
+        </div>
+        <div class="logos">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMhVKY1Gbcov5QM_oxmhrisk3GGtIQtAyU7g&usqp=CAU" onclick="premiere2()"></img>
+          <span>Premiere 2</span>
+        </div>
+        <div class="logos">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMhVKY1Gbcov5QM_oxmhrisk3GGtIQtAyU7g&usqp=CAU" onclick="premiere3()"></img>
+          <span>Premiere 3</span>
+        </div>
+        <div class="logos">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMhVKY1Gbcov5QM_oxmhrisk3GGtIQtAyU7g&usqp=CAU" onclick="premiere4()"></img>
+          <span>Premiere 4</span>
+        </div>
+        <div class="logos">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMhVKY1Gbcov5QM_oxmhrisk3GGtIQtAyU7g&usqp=CAU" onclick="premiere5()"></img>
+          <span>Premiere 5</span>
+        </div>
+        <div class="logos">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMhVKY1Gbcov5QM_oxmhrisk3GGtIQtAyU7g&usqp=CAU" onclick="premiere6()"></img>
+          <span>Premiere 6</span>
+        </div>
+       </section>
+      </center> 
+    </main>
+  </body>
 </html>
