@@ -1,100 +1,23 @@
-<!DOCTYPE HTML>
-<html>
+<!DOCTYPE html>
+<html lang="pt-BR">
   <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-  
-    <!--Scrpt mudar src iframe-->
-    <script>
-      function premiere1 (){
-      document.getElementById("myiframe").src = "https://sinalpublico.com/player3/ch.php?canal=premiereclubes";
-      }
-      function premiere2 (){
-      document.getElementById("myiframe").src = "https://sinalpublico.com/player3/ch.php?canal=premiere2";
-      }
-      function premiere3 (){
-      document.getElementById("myiframe").src = "https://sinalpublico.com/player3/ch.php?canal=premiere3";
-      }
-      function premiere4 (){
-      document.getElementById("myiframe").src = "https://sinalpublico.com/player3/ch.php?canal=premiere4";
-      }
-      function premiere5 (){
-      document.getElementById("myiframe").src = "https://sinalpublico.com/player3/ch.php?canal=premiere5";
-      }
-      function premiere6 (){
-      document.getElementById("myiframe").src = "https://sinalpublico.com/player3/ch.php?canal=premiere6";
-      }
-    </script>
     <style>
       body {
-        background-color: gray;
-        padding: 0px;
+        background-color: pink;
+        color: gray;
       }
-      main {
-        background-color: white;
-        padding: 10px;
-        border-radius: 10px;
-        min-width:210px;
-        max-width: 900px;
-        margin:auto;
-      }
-      div.logos {
-        width: 80px;
-        display: inline-block;
-        text-align: center;
-        font-size:13px;
-        padding: 5px;
-        background-color: gray;
-        margin-top:5px;
-        border-radius: 10px;
-        color:white;
-      }
-      #myiframe {
+      video {
         width: 100%;
-        height: 300px;
+        height: 100%;
       }
-      img{
-        width: 80px;
-      }
-
     </style>
   </head>
   <body>
     <main>
-      <div>
-       <iframe  allowfullscreen webkitallowfullscreen mozallowfullscreen  class="frame" fullscreen *; allow="encrypted-media" gesture="media"  target="Player" id="myiframe" name=Player "" src="https://sinalpublico.com/player3/ch.php?canal=premiereclubes" frameborder=0 scrolling=no> </iframe>
-      </div>
-      <center>
-      <section class="Botoes">
-          <div class="logos">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMhVKY1Gbcov5QM_oxmhrisk3GGtIQtAyU7g&usqp=CAU" onclick="premiere1()"></img>
-          <span>Premiere 1</span>
-        </div>
-        <div class="logos">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMhVKY1Gbcov5QM_oxmhrisk3GGtIQtAyU7g&usqp=CAU" onclick="premiere2()"></img>
-          <span>Premiere 2</span>
-        </div>
-        <div class="logos">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMhVKY1Gbcov5QM_oxmhrisk3GGtIQtAyU7g&usqp=CAU" onclick="premiere3()"></img>
-          <span>Premiere 3</span>
-        </div>
-        <div class="logos">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMhVKY1Gbcov5QM_oxmhrisk3GGtIQtAyU7g&usqp=CAU" onclick="premiere4()"></img>
-          <span>Premiere 4</span>
-        </div>
-        <div class="logos">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMhVKY1Gbcov5QM_oxmhrisk3GGtIQtAyU7g&usqp=CAU" onclick="premiere5()"></img>
-          <span>Premiere 5</span>
-        </div>
-        <div class="logos">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMhVKY1Gbcov5QM_oxmhrisk3GGtIQtAyU7g&usqp=CAU" onclick="premiere6()"></img>
-          <span>Premiere 6</span>
-        </div>
-        <div class="logos">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG2FCwmGDfnFUjKkMuQRdj4JyV-orWJbZIIA&usqp=CAU" onclick="premiere6()"></img>
-          <span>Discovery Channel</span>
-        </div>
-      </section>
-      </center> 
+    <center>
+      <h2>Video source</h2>
+      <video src="http://prvott.xyz:8080/live/ZtpNJkkCCgB3/n5kcFCDymhvP/77896.m3u8"></video>
+    </center>
     </main>
   </body>
 </html>
