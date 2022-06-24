@@ -1,0 +1,1430 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="(+)!!! AMERICA !!!" tvg-logo="" group-title="!!! AMERICA !!!",!!! AMERICA !!!
+http://edge.bz:8080/00mtb001/AuxBBqMDjceOJLN/25674544
+#EXTINF:-1 tvg-id="americatv.ar" tvg-name="(+)AMERICA TV" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/AMERICANTV.png" group-title="ARGENTINA",AMERICA TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/197715
+#EXTINF:-1 tvg-id="" tvg-name="(+)TV PUBLICA" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/TVP.png" group-title="ARGENTINA",TV PUBLICA
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/216084
+#EXTINF:-1 tvg-id="telefe.ar" tvg-name="(+)TELEFE  " tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/TELEFETV.png" group-title="ARGENTINA",TELEFE  
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/197716
+#EXTINF:-1 tvg-id="" tvg-name="(+)TVP" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/TVPCHANNEL.png" group-title="ARGENTINA",TVP
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/197717
+#EXTINF:-1 tvg-id="el13.ar" tvg-name="(+)EL TRECE" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/ELTRECE.png" group-title="ARGENTINA",EL TRECE
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/197719
+#EXTINF:-1 tvg-id="" tvg-name="(+)EL NUEVE" tvg-logo="http://logo.panel.cx/logo/LATINO/elnueve.png" group-title="ARGENTINA",EL NUEVE
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/197718
+#EXTINF:-1 tvg-id="canal7hd.ar" tvg-name="(+)CANAL 7" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/CANAL7HD.png" group-title="ARGENTINA",CANAL 7
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/197720
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL CIUDAD" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/CANALCIUDAD.png" group-title="ARGENTINA",CANAL CIUDAD
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/197721
+#EXTINF:-1 tvg-id="c5n.ar" tvg-name="(+)C5N" tvg-logo="http://logo.panel.cx/logo/LATINO/CHILE/c5n.png" group-title="ARGENTINA",C5N
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/197725
+#EXTINF:-1 tvg-id="america24.ar" tvg-name="(+)A24" tvg-logo="http://logo.panel.cx/logo/LATINO/CHILE/A24.png" group-title="ARGENTINA",A24
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/197726
+#EXTINF:-1 tvg-id="channel26.ar" tvg-name="(+)26TV" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/C26.png" group-title="ARGENTINA",26TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/197728
+#EXTINF:-1 tvg-id="tn.ar" tvg-name="(+)TN" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/TN.png" group-title="ARGENTINA",TN
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/197729
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="(+)TYC SPORTS" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/TYCSPORTS.png" group-title="ARGENTINA",TYC SPORTS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/197732
+#EXTINF:-1 tvg-id="tntsports.ar" tvg-name="(+)TNT SPORTS" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/TNT.png" group-title="ARGENTINA",TNT SPORTS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/197733
+#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="(+)FOX SPORTS PREMIUM" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/FOXSPOTSPREMUIM.png" group-title="ARGENTINA",FOX SPORTS PREMIUM
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30758
+#EXTINF:-1 tvg-id="" tvg-name="(+)13 MAX" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/13MAXTV.png" group-title="ARGENTINA",13 MAX
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30757
+#EXTINF:-1 tvg-id="america24.ar" tvg-name="(+)A24" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/A24.png" group-title="ARGENTINA",A24
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30756
+#EXTINF:-1 tvg-id="americatv.ar" tvg-name="(+)AMERICA TV" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/AMERICANTV.png" group-title="ARGENTINA",AMERICA TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30755
+#EXTINF:-1 tvg-id="c5n.ar" tvg-name="(+)C5N" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/C5N.png" group-title="ARGENTINA",C5N
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30754
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL 26" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/C26.png" group-title="ARGENTINA",CANAL 26
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30752
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL 4" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/CANAL4.png" group-title="ARGENTINA",CANAL 4
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30751
+#EXTINF:-1 tvg-id="" tvg-name="(+)CIUDAD MAGAZINE" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/Ciudadmagazine.png" group-title="ARGENTINA",CIUDAD MAGAZINE
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30747
+#EXTINF:-1 tvg-id="" tvg-name="(+)CRONICA" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/CRONICATV.png" group-title="ARGENTINA",CRONICA
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30745
+#EXTINF:-1 tvg-id="directvsportmix.ar" tvg-name="(+)DIRECT TV SPORTS" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/DTVSPORTS.png" group-title="ARGENTINA",DIRECT TV SPORTS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30743
+#EXTINF:-1 tvg-id="" tvg-name="(+)DIRECT TV SPORTS 2" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/DTVSPORTS.png" group-title="ARGENTINA",DIRECT TV SPORTS 2
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30742
+#EXTINF:-1 tvg-id="directtvsportplus.ar" tvg-name="(+)DIRECT TV SPORTS PLUS" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/DIRECTTVSPORTSPLUS.png" group-title="ARGENTINA",DIRECT TV SPORTS PLUS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30741
+#EXTINF:-1 tvg-id="el13.ar" tvg-name="(+)EL TRECE" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/ELTRECE.png" group-title="ARGENTINA",EL TRECE
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30740
+#EXTINF:-1 tvg-id="" tvg-name="(+)ELNUEVE" tvg-logo="http://logo.panel.cx/logo/LATINO/elnueve.png" group-title="ARGENTINA",ELNUEVE
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30739
+#EXTINF:-1 tvg-id="espn.ar" tvg-name="(+)ESPN" tvg-logo="http://logo.panel.cx/logo/LATINO/ESPN.png" group-title="ARGENTINA",ESPN
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30737
+#EXTINF:-1 tvg-id="espn2.ar" tvg-name="(+)ESPN 2" tvg-logo="http://logo.panel.cx/logo/LATINO/ESPN2.png" group-title="ARGENTINA",ESPN 2
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30736
+#EXTINF:-1 tvg-id="espn3.ar" tvg-name="(+)ESPN 3" tvg-logo="http://logo.panel.cx/logo/LATINO/ESPN3.png" group-title="ARGENTINA",ESPN 3
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30735
+#EXTINF:-1 tvg-id="foxsports.ar" tvg-name="(+)FOX SPORT" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/FOXSPORTS.png" group-title="ARGENTINA",FOX SPORT
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/149797
+#EXTINF:-1 tvg-id="foxsports2.ar" tvg-name="(+)FOX SPORT 2" tvg-logo="http://logo.panel.cx/logo/LATINO/FOXSPORTS2arg.png" group-title="ARGENTINA",FOX SPORT 2
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30733
+#EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="(+)FOX SPORT 3" tvg-logo="http://logo.panel.cx/logo/LATINO/FOXSPORTs3arg.png" group-title="ARGENTINA",FOX SPORT 3
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30732
+#EXTINF:-1 tvg-id="" tvg-name="(+)LN+" tvg-logo="http://logo.panel.cx/logo/LATINO/LNPLUS.png" group-title="ARGENTINA",LN+
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30731
+#EXTINF:-1 tvg-id="" tvg-name="(+)MUSIC TOP" tvg-logo="http://logo.panel.cx/logo/LATINO/MUSICTOP.png" group-title="ARGENTINA",MUSIC TOP
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30730
+#EXTINF:-1 tvg-id="telefe.ar" tvg-name="(+)TELEFE" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/TELEFETV.png" group-title="ARGENTINA",TELEFE
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30727
+#EXTINF:-1 tvg-id="tn.ar" tvg-name="(+)TN" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/TN.png" group-title="ARGENTINA",TN
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30724
+#EXTINF:-1 tvg-id="tnt.ar" tvg-name="(+)TNT " tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/TNT.png" group-title="ARGENTINA",TNT 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30723
+#EXTINF:-1 tvg-id="tvpublica.ar" tvg-name="(+)TV PUBLICA" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/TVP.png" group-title="ARGENTINA",TV PUBLICA
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30721
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-name="(+)TYC" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/TYCSPORTS.png" group-title="ARGENTINA",TYC
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30720
+#EXTINF:-1 tvg-id="espnxtra.ar" tvg-name="(+)ESPN+" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/ESPNEXTRA.png" group-title="ARGENTINA",ESPN+
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69178
+#EXTINF:-1 tvg-id="pakapaka.ar" tvg-name="(+)PAKAPAKA" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/Pakapaka.png" group-title="ARGENTINA",PAKAPAKA
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69176
+#EXTINF:-1 tvg-id="" tvg-name="(+)TOP LATINO TV" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/TOPLATINO.png" group-title="ARGENTINA",TOP LATINO TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69175
+#EXTINF:-1 tvg-id="cine.ar" tvg-name="(+)CINE AR" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/CINEAR.png" group-title="ARGENTINA",CINE AR
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69174
+#EXTINF:-1 tvg-id="canaldelaciudad.ar" tvg-name="(+)CANAL DE LA CIUDAD" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/CANALDELACIUDAD.png" group-title="ARGENTINA",CANAL DE LA CIUDAD
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69173
+#EXTINF:-1 tvg-id="argentinisima.ar" tvg-name="(+)ARGENTINISIMA" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/ARGENTINISIMA.png" group-title="ARGENTINA",ARGENTINISIMA
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69172
+#EXTINF:-1 tvg-id="encuentro.ar" tvg-name="(+)ENCUENTRO" tvg-logo="http://logo.panel.cx/logo/LATINO/ARGENTINA/Canal_encuentro.png" group-title="ARGENTINA",ENCUENTRO
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69169
+#EXTINF:-1 tvg-id="" tvg-name="(+)GLOBO BRASILA" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/GLOBO-1.png" group-title="BRAZIL",GLOBO BRASILA
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76213
+#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="(+)GLOBO RJ" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/GLOBO-1.png" group-title="BRAZIL",GLOBO RJ
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76214
+#EXTINF:-1 tvg-id="GloboRJ.br" tvg-name="(+)GLOBO SP" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/GLOBO-1.png" group-title="BRAZIL",GLOBO SP
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76215
+#EXTINF:-1 tvg-id="" tvg-name="(+)GLOBO MINAS" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/GLOBO-1.png" group-title="BRAZIL",GLOBO MINAS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76216
+#EXTINF:-1 tvg-id="" tvg-name="(+)GLOBO NORDESTE" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/GLOBO-1.png" group-title="BRAZIL",GLOBO NORDESTE
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76217
+#EXTINF:-1 tvg-id="" tvg-name="(+)GLOBO RBS PORTO ALEGRE" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/GLOBO-1.png" group-title="BRAZIL",GLOBO RBS PORTO ALEGRE
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76218
+#EXTINF:-1 tvg-id="" tvg-name="(+)GLOBO TV MIRANTE" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/GLOBO-1.png" group-title="BRAZIL",GLOBO TV MIRANTE
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76219
+#EXTINF:-1 tvg-id="" tvg-name="(+)GLOBO TV SERGIPE" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/GLOBO-1.png" group-title="BRAZIL",GLOBO TV SERGIPE
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76220
+#EXTINF:-1 tvg-id="" tvg-name="(+)RECORD" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/RECORDHD.png" group-title="BRAZIL",RECORD
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76221
+#EXTINF:-1 tvg-id="" tvg-name="(+)RECORD RJ" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/RECORDHD.png" group-title="BRAZIL",RECORD RJ
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76222
+#EXTINF:-1 tvg-id="" tvg-name="(+)RECORD SP" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/RECORDHD.png" group-title="BRAZIL",RECORD SP
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76223
+#EXTINF:-1 tvg-id="WooHoo.br" tvg-name="(+)WOOHOO" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/WOOHOOHD-1.png" group-title="BRAZIL",WOOHOO
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76224
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="(+)VIVA" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/VIVAHD-1.png" group-title="BRAZIL",VIVA
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76225
+#EXTINF:-1 tvg-id="EEntertainment.br" tvg-name="(+)E!" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/E%21.png" group-title="BRAZIL",E!
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76226
+#EXTINF:-1 tvg-id="" tvg-name="(+)EI PLUS" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/E%21.png" group-title="BRAZIL",EI PLUS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76227
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="(+)LIFETIME" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/LIFETIMEHD-1.png" group-title="BRAZIL",LIFETIME
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76228
+#EXTINF:-1 tvg-id="FoodNetwork.br" tvg-name="(+)FOOD NETWORK" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/FOOD-NETWORKHD.png" group-title="BRAZIL",FOOD NETWORK
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76229
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="(+)GLOOB" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/GLOOBHD.png" group-title="BRAZIL",GLOOB
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76230
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="(+)GNT" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/GNTHD-1.png" group-title="BRAZIL",GNT
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76231
+#EXTINF:-1 tvg-id="" tvg-name="(+)GLOBOSAT" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/GLOBO-1.png" group-title="BRAZIL",GLOBOSAT
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76232
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL BRASIL" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/CANAL-BRASILHD-1.png" group-title="BRAZIL",CANAL BRASIL
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76233
+#EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="(+)NOVO TEMPO" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/NOVO-TEMPOHD.png" group-title="BRAZIL",NOVO TEMPO
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76234
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="(+)REDE TV" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/REDE-TVHD-1.png" group-title="BRAZIL",REDE TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76235
+#EXTINF:-1 tvg-id="" tvg-name="(+)SBT CIDADE VERDE" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/SBT-1.png" group-title="BRAZIL",SBT CIDADE VERDE
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76236
+#EXTINF:-1 tvg-id="SBT.br" tvg-name="(+)SBT" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/SBT-1.png" group-title="BRAZIL",SBT
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76237
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="(+)CURTA!" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/CURTAHD.png" group-title="BRAZIL",CURTA!
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76238
+#EXTINF:-1 tvg-id="" tvg-name="(+)PRIME BOX BRASIL" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/PRIME-BOX%20BRASILHD.png" group-title="BRAZIL",PRIME BOX BRASIL
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76239
+#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="(+)GLOBO NEWS" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/GLOBO-NEWSHD-1.png" group-title="BRAZIL",GLOBO NEWS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76241
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="(+)RECORD NEWS" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/RECORDHD.png" group-title="BRAZIL",RECORD NEWS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76242
+#EXTINF:-1 tvg-id="BandNews.br" tvg-name="(+)BAND NEWS" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/BAND-NEWSHD.png" group-title="BRAZIL",BAND NEWS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76243
+#EXTINF:-1 tvg-id="" tvg-name="(+)CBS NEWS" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/CBS-NEWSHD-1.png" group-title="BRAZIL",CBS NEWS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76244
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="(+)BABY" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/BABYHD-1.png" group-title="BRAZIL",BABY
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76246
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="(+)BOOMERANG" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/BOOMERANGHD.png" group-title="BRAZIL",BOOMERANG
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76247
+#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="(+)CARTOON NETWORK" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/cartoon-network-hd-1.png" group-title="BRAZIL",CARTOON NETWORK
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76248
+#EXTINF:-1 tvg-id="" tvg-name="(+)DISNEY CHANNEL" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/DISNEY-CHANNELHD-1.png" group-title="BRAZIL",DISNEY CHANNEL
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76249
+#EXTINF:-1 tvg-id="" tvg-name="(+)NICK" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/NICKHD.png" group-title="BRAZIL",NICK
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76252
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="(+)NICK JR" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/NICK-JRHD-1.png" group-title="BRAZIL",NICK JR
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76253
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="(+)NICKELODEON" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/NICKELODEONHD.png" group-title="BRAZIL",NICKELODEON
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76254
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="(+)TOONCAST" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/TOONCASTHD.png" group-title="BRAZIL",TOONCAST
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76255
+#EXTINF:-1 tvg-id="RaTimBum.br" tvg-name="(+)RA TIM BUM" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/RA-TIM-BUMHD-1.png" group-title="BRAZIL",RA TIM BUM
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76256
+#EXTINF:-1 tvg-id="FOXPremium1.br" tvg-name="(+)STAR HITS 1" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/FOX.png" group-title="BRAZIL",STAR HITS 1
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76258
+#EXTINF:-1 tvg-id="FOXPremium2.br" tvg-name="(+)STAR HITS 2" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/FOX.png" group-title="BRAZIL",STAR HITS 2
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76259
+#EXTINF:-1 tvg-id="HBO.br" tvg-name="(+)HBO" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/HBO.png" group-title="BRAZIL",HBO
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76260
+#EXTINF:-1 tvg-id="HBO2.br" tvg-name="(+)HBO 2" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/HBO.png" group-title="BRAZIL",HBO 2
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76261
+#EXTINF:-1 tvg-id="HBOFamily.br" tvg-name="(+)HBO FAMILY" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/HBO.png" group-title="BRAZIL",HBO FAMILY
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76262
+#EXTINF:-1 tvg-id="HBOPlusBrasil.br" tvg-name="(+)HBO PLUS" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/HBO.png" group-title="BRAZIL",HBO PLUS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76263
+#EXTINF:-1 tvg-id="HBOSignature.br" tvg-name="(+)HBO SIGNATURE" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/HBO.png" group-title="BRAZIL",HBO SIGNATURE
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76264
+#EXTINF:-1 tvg-id="MaxPrimeBrasil.br" tvg-name="(+)MAX PRIME" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/MAX-PRIMEHD-1.png" group-title="BRAZIL",MAX PRIME
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76265
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="(+)PREMIERE CLUBES" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png" group-title="BRAZIL",PREMIERE CLUBES
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76266
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="(+)PREMIERE 2" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png" group-title="BRAZIL",PREMIERE 2
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76267
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="(+)PREMIERE 3" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png" group-title="BRAZIL",PREMIERE 3
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76268
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="(+)PREMIERE 4" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png" group-title="BRAZIL",PREMIERE 4
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76269
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="(+)PREMIERE 5" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png" group-title="BRAZIL",PREMIERE 5
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76270
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="(+)PREMIERE 6" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png" group-title="BRAZIL",PREMIERE 6
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76271
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="(+)PREMIERE 7" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/PREMIERE-CLUBES7HD-1.png" group-title="BRAZIL",PREMIERE 7
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76272
+#EXTINF:-1 tvg-id="" tvg-name="(+)TELECINE PREMIUM" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/TELECINE-TOUCH-1.png" group-title="BRAZIL",TELECINE PREMIUM
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76273
+#EXTINF:-1 tvg-id="TNT.br" tvg-name="(+)TNT" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/TNTHD-1.png" group-title="BRAZIL",TNT
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76274
+#EXTINF:-1 tvg-id="TNTSeries.br" tvg-name="(+)TNT SERIES" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/TNTHD-1.png" group-title="BRAZIL",TNT SERIES
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76275
+#EXTINF:-1 tvg-id="" tvg-name="(+)TELECINE ACTION" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/TELECINE-TOUCH-1.png" group-title="BRAZIL",TELECINE ACTION
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76276
+#EXTINF:-1 tvg-id="" tvg-name="(+)TELECINE CULT" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/TELECINE-TOUCH-1.png" group-title="BRAZIL",TELECINE CULT
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76277
+#EXTINF:-1 tvg-id="" tvg-name="(+)TELECINE FUN" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/TELECINE-TOUCH-1.png" group-title="BRAZIL",TELECINE FUN
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76278
+#EXTINF:-1 tvg-id="" tvg-name="(+)TELECINE PIPOCA" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/TELECINE-TOUCH-1.png" group-title="BRAZIL",TELECINE PIPOCA
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76279
+#EXTINF:-1 tvg-id="" tvg-name="(+)TELECINE TOUCH" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/TELECINE-TOUCH-1.png" group-title="BRAZIL",TELECINE TOUCH
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76280
+#EXTINF:-1 tvg-id="WarnerChannel.br" tvg-name="(+)WARNER CHANNEL" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/WARNER-CHANNEL-1.png" group-title="BRAZIL",WARNER CHANNEL
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76281
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="(+)AMC" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/AMCHD-1.png" group-title="BRAZIL",AMC
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76282
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="(+)ARTE 1" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/ARTE1HD-1.png" group-title="BRAZIL",ARTE 1
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76283
+#EXTINF:-1 tvg-id="AXN.br" tvg-name="(+)AXN" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/AXNHD.png" group-title="BRAZIL",AXN
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76284
+#EXTINF:-1 tvg-id="Band.br" tvg-name="(+)BAND CAMPINAS" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/BAND-CAMPINASHD.png" group-title="BRAZIL",BAND CAMPINAS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76285
+#EXTINF:-1 tvg-id="Band.br" tvg-name="(+)BAND" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/BAND-HD.png" group-title="BRAZIL",BAND
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76286
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="(+)BAND SPORT" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/BAND-SPORTSHD-1.png" group-title="BRAZIL",BAND SPORT
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76287
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="(+)CINEMAX" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/CINEMAX-HD-1.png" group-title="BRAZIL",CINEMAX
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76288
+#EXTINF:-1 tvg-id="ComedyCentral.br" tvg-name="(+)COMEDY CENTRAL" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/COMEDY-CENTRALHD-1.png" group-title="BRAZIL",COMEDY CENTRAL
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76289
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="(+)FOX" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/FOX.png" group-title="BRAZIL",FOX
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76290
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="(+)FOX HITS" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/FOX.png" group-title="BRAZIL",FOX HITS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76291
+#EXTINF:-1 tvg-id="FX.br" tvg-name="(+)FX" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/FX.png" group-title="BRAZIL",FX
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76292
+#EXTINF:-1 tvg-id="maxUP.br" tvg-name="(+)MAX UP" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/MAX-UPHD-1.png" group-title="BRAZIL",MAX UP
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76294
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="(+)MEGAPIX" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/MEGAPIXHD-1.png" group-title="BRAZIL",MEGAPIX
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76295
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="(+)MULTISHOW" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/MULTISHOWHD-Copie.png" group-title="BRAZIL",MULTISHOW
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76296
+#EXTINF:-1 tvg-id="Off.br" tvg-name="(+)OFF" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/OFFHD-1.png" group-title="BRAZIL",OFF
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76297
+#EXTINF:-1 tvg-id="Paramount.br" tvg-name="(+)PARAMOUNT" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/PARAMOUNTHD.png" group-title="BRAZIL",PARAMOUNT
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76298
+#EXTINF:-1 tvg-id="" tvg-name="(+)SONY CHANNEL" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/SONY-CHANNELHD-1.png" group-title="BRAZIL",SONY CHANNEL
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76299
+#EXTINF:-1 tvg-id="Space.br" tvg-name="(+)SPACE" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/SPACEHD-1.png" group-title="BRAZIL",SPACE
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76300
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="(+)STUDIO UNIVERSAL" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/STUDIO-UNIVERSAL-1.png" group-title="BRAZIL",STUDIO UNIVERSAL
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76301
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="(+)SYFY" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/syfy-hd.png" group-title="BRAZIL",SYFY
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76302
+#EXTINF:-1 tvg-id="TBS.br" tvg-name="(+)TBS" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/TBS-1.png" group-title="BRAZIL",TBS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76303
+#EXTINF:-1 tvg-id="TCM.br" tvg-name="(+)TCM" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/TCMHD.png" group-title="BRAZIL",TCM
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76304
+#EXTINF:-1 tvg-id="TLC.br" tvg-name="(+)TLC" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/tlc-hd.png" group-title="BRAZIL",TLC
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76305
+#EXTINF:-1 tvg-id="" tvg-name="(+)UNIVERSAL" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/UNIVERSALHD.png" group-title="BRAZIL",UNIVERSAL
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76306
+#EXTINF:-1 tvg-id="" tvg-name="(+)ZOOMOO" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/ZOOMOOHD.png" group-title="BRAZIL",ZOOMOO
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76307
+#EXTINF:-1 tvg-id="AandE.br" tvg-name="(+)A&E" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/A%26E.png" group-title="BRAZIL",A&E
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76308
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="(+)SPORTV" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/SPORTVHD.png" group-title="BRAZIL",SPORTV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76310
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="(+)SPORTV 2" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/SPORTV2HD%20.png" group-title="BRAZIL",SPORTV 2
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76311
+#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="(+)SPORTV 3" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/SPORTV3HD%20.png" group-title="BRAZIL",SPORTV 3
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76312
+#EXTINF:-1 tvg-id="FoxSports.br" tvg-name="(+)FOX SPORTS" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/FOX.png" group-title="BRAZIL",FOX SPORTS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76313
+#EXTINF:-1 tvg-id="FoxSports2.br" tvg-name="(+)FOX SPORTS 2" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/FOX.png" group-title="BRAZIL",FOX SPORTS 2
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76314
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="(+)ESPN" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/ESPN-1.png" group-title="BRAZIL",ESPN
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76315
+#EXTINF:-1 tvg-id="" tvg-name="(+)ESPN EXTRA" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/ESPN-1.png" group-title="BRAZIL",ESPN EXTRA
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76316
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="(+)ESPN 2" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/ESPN-1.png" group-title="BRAZIL",ESPN 2
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76317
+#EXTINF:-1 tvg-id="ESPNBrasil.br" tvg-name="(+)ESPN BRASIL" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/ESPN-1.png" group-title="BRAZIL",ESPN BRASIL
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76318
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="(+)COMBATE" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/COMBATEHD-1.png" group-title="BRAZIL",COMBATE
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76319
+#EXTINF:-1 tvg-id="" tvg-name="(+)ALL SPORTS" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/BRASIL.png" group-title="BRAZIL",ALL SPORTS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76320
+#EXTINF:-1 tvg-id="BandSports.br" tvg-name="(+)BAND SPORTS" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/BAND-SPORTSHD-1.png" group-title="BRAZIL",BAND SPORTS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76321
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="(+)BIS" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/BIS-1.png" group-title="BRAZIL",BIS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76323
+#EXTINF:-1 tvg-id="MTV.br" tvg-name="(+)MTV" tvg-logo="http://logo.panel.cx/logo/AUSTRALIA/mtv.png" group-title="BRAZIL",MTV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76324
+#EXTINF:-1 tvg-id="AnimalPlanet.br" tvg-name="(+)ANIMAL PLANET" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/ANIMALPLANET-1.png" group-title="BRAZIL",ANIMAL PLANET
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76326
+#EXTINF:-1 tvg-id="" tvg-name="(+)DISCOVERY" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/discovery.png" group-title="BRAZIL",DISCOVERY
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76327
+#EXTINF:-1 tvg-id="" tvg-name="(+)DISCOVERY CIVILIZATION" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/DISCOVERY-CIVILIZATIONHD.png" group-title="BRAZIL",DISCOVERY CIVILIZATION
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76328
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.br" tvg-name="(+)DISCOVERY H&H" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/DISCOVERYH-1.png" group-title="BRAZIL",DISCOVERY H&H
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76329
+#EXTINF:-1 tvg-id="DiscoveryKids.br" tvg-name="(+)DISCOVERY KIDS" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/DISCOVERY-KIDSHD-1.png" group-title="BRAZIL",DISCOVERY KIDS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76330
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="(+)DISCOVERY SCIENCE" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/discovery-science-1.png" group-title="BRAZIL",DISCOVERY SCIENCE
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76331
+#EXTINF:-1 tvg-id="DiscoveryTheater.br" tvg-name="(+)DISCOVERY THEATER" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/DISCOVERYTHEAERHD-1.png" group-title="BRAZIL",DISCOVERY THEATER
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76332
+#EXTINF:-1 tvg-id="DiscoveryTurbo.br" tvg-name="(+)DISCOVERY TURBO" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/DISCOVERY-TURBOHD-1.png" group-title="BRAZIL",DISCOVERY TURBO
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76333
+#EXTINF:-1 tvg-id="DiscoveryWorld.br" tvg-name="(+)DISCOVERY WORLD" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/DISCOVERY-WORLDHD-1.png" group-title="BRAZIL",DISCOVERY WORLD
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76334
+#EXTINF:-1 tvg-id="" tvg-name="(+)HISTORY" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/HISTORYHD-1.png" group-title="BRAZIL",HISTORY
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76335
+#EXTINF:-1 tvg-id="History2.br" tvg-name="(+)H2" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/HISTORY-2-1.png" group-title="BRAZIL",H2
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76336
+#EXTINF:-1 tvg-id="" tvg-name="(+)DISCOVERY ID" tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/DISCOVERY-IDHD-1.png" group-title="BRAZIL",DISCOVERY ID
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/76337
+#EXTINF:-1 tvg-id="" tvg-name="(+)TVUNIVERSITARIA" tvg-logo="http://logo.panel.cx/logo/LATINO/BOLIVIA/TVU.png" group-title="BOLIVIA_CHILIE_COLOMBIA",TVUNIVERSITARIA
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/187613
+#EXTINF:-1 tvg-id="" tvg-name="(+)XTO" tvg-logo="http://logo.panel.cx/logo/LATINO/BOLIVIA/XTOTV.png" group-title="BOLIVIA_CHILIE_COLOMBIA",XTO
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/187611#EXTINF:-1 tvg-id="" tvg-name="(+)24HORAS CHILE" tvg-logo="http://logo.panel.cx/logo/LATINO/CHILE/24horas.png" group-title="BOLIVIA_CHILIE_COLOMBIA",24HORAS CHILE
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/197742
+#EXTINF:-1 tvg-id="cdfbasico.cl" tvg-name="(+)CDF BASICO" tvg-logo="http://logo.panel.cx/logo/LATINO/CHILE/tnt-sports-.png" group-title="BOLIVIA_CHILIE_COLOMBIA",CDF BASICO
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/197743
+#EXTINF:-1 tvg-id="" tvg-name="(+)CDO BASICO" tvg-logo="http://logo.panel.cx/logo/LATINO/CHILE/cdo-ba.png" group-title="BOLIVIA_CHILIE_COLOMBIA",CDO BASICO
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/197744
+#EXTINF:-1 tvg-id="cdfpremium.cl" tvg-name="(+)CDO PREMIUM" tvg-logo="http://logo.panel.cx/logo/LATINO/CHILE/cdo.png" group-title="BOLIVIA_CHILIE_COLOMBIA",CDO PREMIUM
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/197745
+#EXTINF:-1 tvg-id="13c.cl" tvg-name="(+)13 CABLE" tvg-logo="http://logo.panel.cx/logo/LATINO/CHILE/13CABLE.png" group-title="BOLIVIA_CHILIE_COLOMBIA",13 CABLE
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30718
+#EXTINF:-1 tvg-id="canal13chile.cl" tvg-name="(+)CANAL13" tvg-logo="http://logo.panel.cx/logo/LATINO/CHILE/CANAL13.png" group-title="BOLIVIA_CHILIE_COLOMBIA",CANAL13
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30717
+#EXTINF:-1 tvg-id="cdfpremium.cl" tvg-name="(+)CDF PREMIUN" tvg-logo="http://logo.panel.cx/logo/LATINO/CHILE/TNTSPORTS.png" group-title="BOLIVIA_CHILIE_COLOMBIA",CDF PREMIUN
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30716
+#EXTINF:-1 tvg-id="chilevision.cl" tvg-name="(+)CHILEVISION" tvg-logo="http://logo.panel.cx/logo/LATINO/CHILE/CHILEVISIONTV-svg.png" group-title="BOLIVIA_CHILIE_COLOMBIA",CHILEVISION
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30715
+#EXTINF:-1 tvg-id="cnnchile.cl" tvg-name="(+)CNN" tvg-logo="http://logo.panel.cx/logo/LATINO/CHILE/CNN.png" group-title="BOLIVIA_CHILIE_COLOMBIA",CNN
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30714
+#EXTINF:-1 tvg-id="lared.cl" tvg-name="(+)LA RED" tvg-logo="http://logo.panel.cx/logo/LATINO/CHILE/LARED.png" group-title="BOLIVIA_CHILIE_COLOMBIA",LA RED
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30713
+#EXTINF:-1 tvg-id="" tvg-name="(+)MEGA" tvg-logo="http://logo.panel.cx/logo/LATINO/CHILE/MEGATV.png" group-title="BOLIVIA_CHILIE_COLOMBIA",MEGA
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30712
+#EXTINF:-1 tvg-id="" tvg-name="(+)TVN" tvg-logo="http://logo.panel.cx/logo/LATINO/CHILE/TVN.png" group-title="BOLIVIA_CHILIE_COLOMBIA",TVN
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30711
+#EXTINF:-1 tvg-id="fox.cl" tvg-name="(+)FOX SPORTS" tvg-logo="http://logo.panel.cx/logo/LATINO/CHILE/FOXSPORTS.png" group-title="BOLIVIA_CHILIE_COLOMBIA",FOX SPORTS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69192
+#EXTINF:-1 tvg-id="cdfhd.cl" tvg-name="(+)CDF" tvg-logo="http://logo.panel.cx/logo/LATINO/CHILE/TNTSPORTS.png" group-title="BOLIVIA_CHILIE_COLOMBIA",CDF
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69191
+#EXTINF:-1 tvg-id="caracol.co" tvg-name="(+)Caracol " tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/CaracolTV.png" group-title="BOLIVIA_CHILIE_COLOMBIA",Caracol 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/190239
+#EXTINF:-1 tvg-id="caracolhd.co" tvg-name="(+)Caracol 2" tvg-logo="http://logo.panel.cx/logo/LATINO/Caracol_HD2.png" group-title="BOLIVIA_CHILIE_COLOMBIA",Caracol 2
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/190240
+#EXTINF:-1 tvg-id="caracolinternacional.co" tvg-name="(+)CARACOL INTERNACIONAL" tvg-logo="http://logo.panel.cx/logo/LATINO/Caracol_Internacional.png" group-title="BOLIVIA_CHILIE_COLOMBIA",CARACOL INTERNACIONAL
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/192830
+#EXTINF:-1 tvg-id="" tvg-name="(+)Caracol Bluetooth Radio " tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/ABC.png" group-title="BOLIVIA_CHILIE_COLOMBIA",Caracol Bluetooth Radio 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/213139
+#EXTINF:-1 tvg-id="rcnhd.co" tvg-name="(+)RCN " tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/RCN.png" group-title="BOLIVIA_CHILIE_COLOMBIA",RCN 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/190242
+#EXTINF:-1 tvg-id="rcnhd.co" tvg-name="(+)RCN 2" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/RCNHD2.png" group-title="BOLIVIA_CHILIE_COLOMBIA",RCN 2
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/190243
+#EXTINF:-1 tvg-id="rcnnovelas.co" tvg-name="(+)RCN Novelas " tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/RCNNOVELAS.png" group-title="BOLIVIA_CHILIE_COLOMBIA",RCN Novelas 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/190244
+#EXTINF:-1 tvg-id="nuestratelenoticias24.co" tvg-name="(+)NTN24 " tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/NTN24tv.png" group-title="BOLIVIA_CHILIE_COLOMBIA",NTN24 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/190246
+#EXTINF:-1 tvg-id="eltiempo.co" tvg-name="(+)El Tiempo" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/eltiempo.png" group-title="BOLIVIA_CHILIE_COLOMBIA",El Tiempo
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/190247
+#EXTINF:-1 tvg-id="" tvg-name="(+)RED PLUS" tvg-logo="http://logo.panel.cx/logo/LATINO/Red-Noticias.png" group-title="BOLIVIA_CHILIE_COLOMBIA",RED PLUS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/192831
+#EXTINF:-1 tvg-id="" tvg-name="(+)ZOOM" tvg-logo="http://logo.panel.cx/logo/LATINO/Zoom.png" group-title="BOLIVIA_CHILIE_COLOMBIA",ZOOM
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/192832
+#EXTINF:-1 tvg-id="winsports.co" tvg-name="(+)Winsports " tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/WinSports.png" group-title="BOLIVIA_CHILIE_COLOMBIA",Winsports 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/190259
+#EXTINF:-1 tvg-id="winsportsplus.co" tvg-name="(+)Winsports Plus " tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/WinSportsPlus.png" group-title="BOLIVIA_CHILIE_COLOMBIA",Winsports Plus 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/190260
+#EXTINF:-1 tvg-id="cosmovision.co" tvg-name="(+)COSMOVISION" tvg-logo="http://logo.panel.cx/logo/LATINO/Cosmovisin.png" group-title="BOLIVIA_CHILIE_COLOMBIA",COSMOVISION
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/192833
+#EXTINF:-1 tvg-id="canal1.co" tvg-name="(+)Canal Uno" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/canal1.png" group-title="BOLIVIA_CHILIE_COLOMBIA",Canal Uno
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/190248
+#EXTINF:-1 tvg-id="citytv.co" tvg-name="(+)CityTV" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/CITYTVVIP.png" group-title="BOLIVIA_CHILIE_COLOMBIA",CityTV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/190249
+#EXTINF:-1 tvg-id="teleantioquia.co" tvg-name="(+)Teleantioquia" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/Teleantioquia.png" group-title="BOLIVIA_CHILIE_COLOMBIA",Teleantioquia
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/190251
+#EXTINF:-1 tvg-id="telecaribe.co" tvg-name="(+)Telecaribe" tvg-logo="http://logo.panel.cx/logo/LATINO/telecaribe.png" group-title="BOLIVIA_CHILIE_COLOMBIA",Telecaribe
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/190252
+#EXTINF:-1 tvg-id="senal.co" tvg-name="(+) SeÃ±al Colombia" tvg-logo="http://logo.panel.cx/logo/LATINO/Se%C3%B1al.png" group-title="BOLIVIA_CHILIE_COLOMBIA", SeÃ±al Colombia
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/191361
+#EXTINF:-1 tvg-id="capitaltv.pe" tvg-name="(+)CAPITAL" tvg-logo="http://logo.panel.cx/logo/LATINO/PERU/Canal_Capital.png" group-title="BOLIVIA_CHILIE_COLOMBIA",CAPITAL
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/187640
+#EXTINF:-1 tvg-id="canalcapital.co" tvg-name="(+)Canal Capital" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/Canal_Capital.png" group-title="BOLIVIA_CHILIE_COLOMBIA",Canal Capital
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/190255
+#EXTINF:-1 tvg-id="canalinstitucional.co" tvg-name="(+)Canal Institucional" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/canalinstitucional.png" group-title="BOLIVIA_CHILIE_COLOMBIA",Canal Institucional
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/190256
+#EXTINF:-1 tvg-id="" tvg-name="(+)La Kalle" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/LaKalle.png" group-title="BOLIVIA_CHILIE_COLOMBIA",La Kalle
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/190258
+#EXTINF:-1 tvg-id="" tvg-name="(+)RCN Radio" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/RCN.png" group-title="BOLIVIA_CHILIE_COLOMBIA",RCN Radio
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/190245
+#EXTINF:-1 tvg-id="telemedellin.co" tvg-name="(+)Telemedellin" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/TELEMEDELLIN.png" group-title="BOLIVIA_CHILIE_COLOMBIA",Telemedellin
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/190253
+#EXTINF:-1 tvg-id="telepacifico.co" tvg-name="(+)Telepacifico" tvg-logo="http://logo.panel.cx/logo/LATINO/Telepac%C3%ADfico.png" group-title="BOLIVIA_CHILIE_COLOMBIA",Telepacifico
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/190254
+#EXTINF:-1 tvg-id="" tvg-name="(+)TeleVid" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/televid.png" group-title="BOLIVIA_CHILIE_COLOMBIA",TeleVid
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/190257
+#EXTINF:-1 tvg-id="" tvg-name="(+)TV AGRO" tvg-logo="http://logo.panel.cx/logo/LATINO/TV_Agro.png" group-title="BOLIVIA_CHILIE_COLOMBIA",TV AGRO
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/213027
+#EXTINF:-1 tvg-id="cablenoticias.co" tvg-name="(+)CABLENOTICIAS" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/CABLENOTICIAS.png" group-title="BOLIVIA_CHILIE_COLOMBIA",CABLENOTICIAS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30708
+#EXTINF:-1 tvg-id="caracolhd.co" tvg-name="(+)CARACOL" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/CaracolTV.png" group-title="BOLIVIA_CHILIE_COLOMBIA",CARACOL
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30706
+#EXTINF:-1 tvg-id="citytv.co" tvg-name="(+)CITY TV" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/CITYTV.png" group-title="BOLIVIA_CHILIE_COLOMBIA",CITY TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30705
+#EXTINF:-1 tvg-id="rcn.co" tvg-name="(+)RCN" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/RCN.png" group-title="BOLIVIA_CHILIE_COLOMBIA",RCN
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30703
+#EXTINF:-1 tvg-id="rcnhd.co" tvg-name="(+)RCN2" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/RCNHD2.png" group-title="BOLIVIA_CHILIE_COLOMBIA",RCN2
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30702
+#EXTINF:-1 tvg-id="rcnnovelas.co" tvg-name="(+)RCN NOVELAS" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/RCNNOVELAS.png" group-title="BOLIVIA_CHILIE_COLOMBIA",RCN NOVELAS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30701
+#EXTINF:-1 tvg-id="senal.co" tvg-name="(+)SENAL COLOMBIA" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/SENALCOLOMBIA.png" group-title="BOLIVIA_CHILIE_COLOMBIA",SENAL COLOMBIA
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30700
+#EXTINF:-1 tvg-id="telemedellin.co" tvg-name="(+)TELE MEDELLIN" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/TELEMEDELLIN.png" group-title="BOLIVIA_CHILIE_COLOMBIA",TELE MEDELLIN
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30699
+#EXTINF:-1 tvg-id="telepacifico.co" tvg-name="(+)TELEPACIFICO" tvg-logo="http://logo.panel.cx/logo/LATINO/Telepac%C3%ADfico.png" group-title="BOLIVIA_CHILIE_COLOMBIA",TELEPACIFICO
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30697
+#EXTINF:-1 tvg-id="canaltrece.co" tvg-name="(+)TRECE" tvg-logo="http://logo.panel.cx/logo/LATINO/Trece2017.png" group-title="BOLIVIA_CHILIE_COLOMBIA",TRECE
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69190
+#EXTINF:-1 tvg-id="caracolinternacional.co" tvg-name="(+)CARACOL INTERNACIONAL" tvg-logo="http://logo.panel.cx/logo/LATINO/CARACOLINTERNACIONAL.png" group-title="BOLIVIA_CHILIE_COLOMBIA",CARACOL INTERNACIONAL
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69188
+#EXTINF:-1 tvg-id="caracolhd.co" tvg-name="(+)CARACOL2" tvg-logo="http://logo.panel.cx/logo/LATINO/Caracol_HD2.png" group-title="BOLIVIA_CHILIE_COLOMBIA",CARACOL2
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69187
+#EXTINF:-1 tvg-id="calitv.co" tvg-name="(+)Cali TV" tvg-logo="http://logo.panel.cx/logo/LATINO/calitv.png" group-title="BOLIVIA_CHILIE_COLOMBIA",Cali TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/79020
+#EXTINF:-1 tvg-id="calitv.co" tvg-name="(+)Cali TV" tvg-logo="http://logo.panel.cx/logo/LATINO/calitv.png" group-title="BOLIVIA_CHILIE_COLOMBIA",Cali TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/79021
+#EXTINF:-1 tvg-id="" tvg-name="(+)Mundo Mas" tvg-logo="http://logo.panel.cx/logo/LATINO/Mundomax_tv_logo.png" group-title="BOLIVIA_CHILIE_COLOMBIA",Mundo Mas
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/79033
+#EXTINF:-1 tvg-id="telemedellin.co" tvg-name="(+)Tele Medellin" tvg-logo="http://logo.panel.cx/logo/LATINO/COLOMBIA/TELEMEDELLIN.png" group-title="BOLIVIA_CHILIE_COLOMBIA",Tele Medellin
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/79037
+#EXTINF:-1 tvg-id="" tvg-name="(+)Teleislas" tvg-logo="http://logo.panel.cx/logo/LATINO/Teleislas.png" group-title="BOLIVIA_CHILIE_COLOMBIA",Teleislas
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/79043
+#EXTINF:-1 tvg-id="" tvg-name="(+)UAO Play" tvg-logo="http://logo.panel.cx/logo/LATINO/UAO-Play.png" group-title="BOLIVIA_CHILIE_COLOMBIA",UAO Play
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/79047
+#EXTINF:-1 tvg-id="" tvg-name="(+)FEVA TV" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/FEVA-.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",FEVA TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/188167
+#EXTINF:-1 tvg-id="" tvg-name="(+)CEEN" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/CEENNEWS.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",CEEN
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/188168
+#EXTINF:-1 tvg-id="" tvg-name="(+)AFRO GLOBAL" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/afr.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",AFRO GLOBAL
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/188169
+#EXTINF:-1 tvg-id="" tvg-name="(+)VH1 CLASSIC " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/HV1-CLASSIC.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",VH1 CLASSIC 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110164
+#EXTINF:-1 tvg-id="" tvg-name="(+)&TV " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/andtv.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",&TV 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110165
+#EXTINF:-1 tvg-id="" tvg-name="(+)3ABN " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/3ABNN.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",3ABN 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110166
+#EXTINF:-1 tvg-id="" tvg-name="(+)AL JAZEERA " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/al-jazeera.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",AL JAZEERA 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110167
+#EXTINF:-1 tvg-id="" tvg-name="(+)ANIMAL PLANET" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/ANIMALPLANET.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",ANIMAL PLANET
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110168
+#EXTINF:-1 tvg-id="" tvg-name="(+)ARTS " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/atrs.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",ARTS 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110169
+#EXTINF:-1 tvg-id="" tvg-name="(+)AWE " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/awee.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",AWE 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110170
+#EXTINF:-1 tvg-id="" tvg-name="(+)AXN " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/axnn.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",AXN 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110171
+#EXTINF:-1 tvg-id="" tvg-name="(+)AXSTV " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/AXS_TV-1.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",AXSTV 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110172
+#EXTINF:-1 tvg-id="" tvg-name="(+)ARUBA TV " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/ARUBATV.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",ARUBA TV 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/221480
+#EXTINF:-1 tvg-id="" tvg-name="(+)B4U MOVIES " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/b4u-movies-1.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",B4U MOVIES 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110173
+#EXTINF:-1 tvg-id="" tvg-name="(+)DCTV" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/dutch-caribbean.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",DCTV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/248597
+#EXTINF:-1 tvg-id="" tvg-name="(+)B4U MUSIC " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/B4UMusic.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",B4U MUSIC 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110174
+#EXTINF:-1 tvg-id="" tvg-name="(+)BABY FIRST " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/BABY-FIRST.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",BABY FIRST 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110175
+#EXTINF:-1 tvg-id="" tvg-name="(+)BABY TV " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/BabyTV.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",BABY TV 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110176
+#EXTINF:-1 tvg-id="" tvg-name="(+)BBO " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/BBO-HD.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",BBO 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110177
+#EXTINF:-1 tvg-id="" tvg-name="(+)BET GOSPEL " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/BET-GOSPEL.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",BET GOSPEL 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110178
+#EXTINF:-1 tvg-id="" tvg-name="(+)BET HER " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/BET-HER.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",BET HER 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110179
+#EXTINF:-1 tvg-id="" tvg-name="(+)BET JAMS " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/BET_Jams.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",BET JAMS 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110180
+#EXTINF:-1 tvg-id="" tvg-name="(+)BET SOUL " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/BET_Soul.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",BET SOUL 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110181
+#EXTINF:-1 tvg-id="" tvg-name="(+)BET" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/bet.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",BET
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110182
+#EXTINF:-1 tvg-id="" tvg-name="(+)BLOOMBERG " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/BLOOMBERG.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",BLOOMBERG 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110183
+#EXTINF:-1 tvg-id="" tvg-name="(+)BOOMERANG " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/BLOOMBERG.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",BOOMERANG 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110184
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL SONY " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/canal-sony.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",CANAL SONY 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110185
+#EXTINF:-1 tvg-id="" tvg-name="(+)CARIBVISION " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/CARIBVISION.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",CARIBVISION 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110186
+#EXTINF:-1 tvg-id="" tvg-name="(+)CARS TV " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/CARS-TV.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",CARS TV 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110187
+#EXTINF:-1 tvg-id="" tvg-name="(+)CCTV 4 " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/CCTV-4.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",CCTV 4 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110188
+#EXTINF:-1 tvg-id="" tvg-name="(+)CGTN DOCUMENTARY " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/CGTN_Documentary.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",CGTN DOCUMENTARY 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110189
+#EXTINF:-1 tvg-id="" tvg-name="(+)CINECANAL " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/CinecaNal.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",CINECANAL 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110190
+#EXTINF:-1 tvg-id="" tvg-name="(+)CITYTV " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/CITY_TV.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",CITYTV 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110191
+#EXTINF:-1 tvg-id="" tvg-name="(+)CNN INTERNATIONAL " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/CNN-INTERNATIONAL.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",CNN INTERNATIONAL 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110192
+#EXTINF:-1 tvg-id="" tvg-name="(+)CNN " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/CNN-INTERNATIONAL.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",CNN 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110193
+#EXTINF:-1 tvg-id="" tvg-name="(+)CNS " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/cns.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",CNS 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110194
+#EXTINF:-1 tvg-id="" tvg-name="(+)CTV COMEDY " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Comedy.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",CTV COMEDY 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110195
+#EXTINF:-1 tvg-id="" tvg-name="(+)COOKING CHANNEL " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/COOKING_CHANNEL.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",COOKING CHANNEL 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110196
+#EXTINF:-1 tvg-id="" tvg-name="(+)ZNSTV BAHAMAS" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/ZNS-TV.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",ZNSTV BAHAMAS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/273576
+#EXTINF:-1 tvg-id="" tvg-name="(+)CUBA V " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/CUBA-V.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",CUBA V 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110197
+#EXTINF:-1 tvg-id="" tvg-name="(+)CUBA VISION " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/CUBA-V.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",CUBA VISION 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110198
+#EXTINF:-1 tvg-id="" tvg-name="(+)CVM TV " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/CVM-TV.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",CVM TV 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110199
+#EXTINF:-1 tvg-id="" tvg-name="(+)DAYSTAR " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Daystar.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",DAYSTAR 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110202
+#EXTINF:-1 tvg-id="" tvg-name="(+)DISCOVERY CHANNEL " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/DISCOVERY-CHANNEL.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",DISCOVERY CHANNEL 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110203
+#EXTINF:-1 tvg-id="" tvg-name="(+)DISCOVERY CIVILIZATION " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/DISCOVERY-CIVILIZATION.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",DISCOVERY CIVILIZATION 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110204
+#EXTINF:-1 tvg-id="" tvg-name="(+)DISCOVERY HOME AND HEALTH " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Discovery_Home_Health.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",DISCOVERY HOME AND HEALTH 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110205
+#EXTINF:-1 tvg-id="" tvg-name="(+)DISCOVERY KIDS " tvg-logo="http://logo.panel.cx/logo/AMERICA/BRASIL/DISCOVERY-KIDSHD-1.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",DISCOVERY KIDS 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110206
+#EXTINF:-1 tvg-id="" tvg-name="(+)DISCOVERY TURBO " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/DISCOVERY-TURBO.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",DISCOVERY TURBO 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110207
+#EXTINF:-1 tvg-id="" tvg-name="(+)DISNEY CHANNEL " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Disney_Channel.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",DISNEY CHANNEL 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110208
+#EXTINF:-1 tvg-id="" tvg-name="(+)DISNEY JUNIOR " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Disney_Junior.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",DISNEY JUNIOR 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110209
+#EXTINF:-1 tvg-id="" tvg-name="(+)DISNEY XD " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Disney_XD.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",DISNEY XD 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110210
+#EXTINF:-1 tvg-id="" tvg-name="(+)E! ENTERTAINMENT " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/E!-ENTERTAINMENT.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",E! ENTERTAINMENT 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110212
+#EXTINF:-1 tvg-id="" tvg-name="(+)ESPN 2 " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/ESPN2.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",ESPN 2 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110214
+#EXTINF:-1 tvg-id="" tvg-name="(+)ESPN " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/ESPN.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",ESPN 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110215
+#EXTINF:-1 tvg-id="" tvg-name="(+)ESTV" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/ESTV.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",ESTV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110216
+#EXTINF:-1 tvg-id="" tvg-name="(+)EURONEWS " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/euronews.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",EURONEWS 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110218
+#EXTINF:-1 tvg-id="" tvg-name="(+)EWTN " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/EWTN.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",EWTN 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110219
+#EXTINF:-1 tvg-id="" tvg-name="(+)FAME 95FM " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/FAME-95FM.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",FAME 95FM 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110220
+#EXTINF:-1 tvg-id="" tvg-name="(+)FIGHT SPORTS " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/FightSports.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",FIGHT SPORTS 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110221
+#EXTINF:-1 tvg-id="" tvg-name="(+)FOOD NETWORK " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/FOOD-NETWORK.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",FOOD NETWORK 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110222
+#EXTINF:-1 tvg-id="" tvg-name="(+)FOX BUSINESS " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/FOX-BUSINESS.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",FOX BUSINESS 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110223
+#EXTINF:-1 tvg-id="" tvg-name="(+)FOX PREMIUM ACTION EAST " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/FOX-PREMIUM-ACTION.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",FOX PREMIUM ACTION EAST 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110224
+#EXTINF:-1 tvg-id="" tvg-name="(+)FOX PREMIUM COMEDY " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/FOX-Comedy-HD.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",FOX PREMIUM COMEDY 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110225
+#EXTINF:-1 tvg-id="" tvg-name="(+)FOX PREMIUM FAMILY" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/FOXFamily%20HD.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",FOX PREMIUM FAMILY
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110226
+#EXTINF:-1 tvg-id="" tvg-name="(+)FOX PREMIUM MOVIES EAST " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/fox_premium.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",FOX PREMIUM MOVIES EAST 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110227
+#EXTINF:-1 tvg-id="" tvg-name="(+)FOX SOCCER PLUS " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/FOX-SOCCER-PLUS.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",FOX SOCCER PLUS 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110228
+#EXTINF:-1 tvg-id="" tvg-name="(+)FX " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/FX.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",FX 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110229
+#EXTINF:-1 tvg-id="" tvg-name="(+)FXM " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/FXM.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",FXM 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110230
+#EXTINF:-1 tvg-id="" tvg-name="(+)GBV " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/gbv.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",GBV 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110231
+#EXTINF:-1 tvg-id="" tvg-name="(+)GSN " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/GSN.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",GSN 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110233
+#EXTINF:-1 tvg-id="" tvg-name="(+)GTN " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/GTN.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",GTN 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110234
+#EXTINF:-1 tvg-id="hallmark.us" tvg-name="(+)HALLMARK CHANNEL " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Hallmark_Channel.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",HALLMARK CHANNEL 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110235
+#EXTINF:-1 tvg-id="" tvg-name="(+)HBO FAMILY " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/HBO_Family.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",HBO FAMILY 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110237
+#EXTINF:-1 tvg-id="" tvg-name="(+)HBO SIGNATURE " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/hbo-signature.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",HBO SIGNATURE 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110239
+#EXTINF:-1 tvg-id="" tvg-name="(+)HBO " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/HBO.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",HBO 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110240
+#EXTINF:-1 tvg-id="" tvg-name="(+)HGTV " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/HGTV.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",HGTV 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110241
+#EXTINF:-1 tvg-id="" tvg-name="(+)HISTORY " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/HISTORY.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",HISTORY 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110242
+#EXTINF:-1 tvg-id="" tvg-name="(+)HITZ 92FM " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/HITZ-92FM.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",HITZ 92FM 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110243
+#EXTINF:-1 tvg-id="" tvg-name="(+)HLN " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/HLN.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",HLN 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110244
+#EXTINF:-1 tvg-id="" tvg-name="(+)HYPETV " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/HYPE.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",HYPETV 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110245
+#EXTINF:-1 tvg-id="" tvg-name="(+)INSPIRATION TV " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/INSPIRATION-TV.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",INSPIRATION TV 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110246
+#EXTINF:-1 tvg-id="" tvg-name="(+)INVESTIGATION DISCOVERY" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/INVESTIGAT-ON-DISCOVERY.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",INVESTIGATION DISCOVERY
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110247
+#EXTINF:-1 tvg-id="" tvg-name="(+)ISAT " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/ISAT.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",ISAT 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110248
+#EXTINF:-1 tvg-id="" tvg-name="(+)JAM VISION " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/JAmvision.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",JAM VISION 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110249
+#EXTINF:-1 tvg-id="" tvg-name="(+)JET TV " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/JET-TV.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",JET TV 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110250
+#EXTINF:-1 tvg-id="" tvg-name="(+)JNN " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/JNN.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",JNN 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110251
+#EXTINF:-1 tvg-id="" tvg-name="(+)JUSTICE CENTRAL " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/justice-central.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",JUSTICE CENTRAL 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110252
+#EXTINF:-1 tvg-id="" tvg-name="(+)LIFETIME MOVIES " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/lifetime-movies.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",LIFETIME MOVIES 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110253
+#EXTINF:-1 tvg-id="" tvg-name="(+)LIFETIME " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/lifetime.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",LIFETIME 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110254
+#EXTINF:-1 tvg-id="" tvg-name="(+)MAV TV " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/mavtv.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",MAV TV 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110255
+#EXTINF:-1 tvg-id="" tvg-name="(+)MAX PRIME " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/MAX-PRIME.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",MAX PRIME 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110256
+#EXTINF:-1 tvg-id="" tvg-name="(+)MAX UP " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Max-up.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",MAX UP 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110257
+#EXTINF:-1 tvg-id="" tvg-name="(+)MAX " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/max.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",MAX 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110258
+#EXTINF:-1 tvg-id="" tvg-name="(+)MSNBC " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/MSNBC.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",MSNBC 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110259
+#EXTINF:-1 tvg-id="" tvg-name="(+)MTM TV " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/mtm-tv.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",MTM TV 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110260
+#EXTINF:-1 tvg-id="" tvg-name="(+)MTV 2 " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/mtv2.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",MTV 2 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110261
+#EXTINF:-1 tvg-id="" tvg-name="(+)MTV LIVE " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/MTV_live.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",MTV LIVE 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110262
+#EXTINF:-1 tvg-id="" tvg-name="(+)MTV " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/mtv.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",MTV 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110263
+#EXTINF:-1 tvg-id="" tvg-name="(+)MY 33 (Miami) " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/my33.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",MY 33 (Miami) 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110264
+#EXTINF:-1 tvg-id="" tvg-name="(+)MY DESTINATION TV " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/MY-DESTINATION-TV.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",MY DESTINATION TV 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110265
+#EXTINF:-1 tvg-id="" tvg-name="(+)NAT GEO WILD " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/NAT-GEO-WILD.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",NAT GEO WILD 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110266
+#EXTINF:-1 tvg-id="" tvg-name="(+)NATIONAL GEOGRAPHIC " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/NATIONAL-GEOGRAPHIC.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",NATIONAL GEOGRAPHIC 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110267
+#EXTINF:-1 tvg-id="" tvg-name="(+)NBC GOLF " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/NBC-GOLF.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",NBC GOLF 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110268
+#EXTINF:-1 tvg-id="" tvg-name="(+)NBCSN " tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/NBCSN.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",NBCSN 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110269
+#EXTINF:-1 tvg-id="" tvg-name="(+)NICK JR " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/NICK-JR.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",NICK JR 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110271
+#EXTINF:-1 tvg-id="" tvg-name="(+)NICK " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/nick.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",NICK 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110272
+#EXTINF:-1 tvg-id="" tvg-name="(+)OAN AMERICA NEWS " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/OAN-AMERICA-NEWS.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",OAN AMERICA NEWS 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110273
+#EXTINF:-1 tvg-id="" tvg-name="(+)ONE CARIBBEAN " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/ONE-CARIBBEAN.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",ONE CARIBBEAN 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110274
+#EXTINF:-1 tvg-id="" tvg-name="(+)OUTDOOR CHANNEL " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/OUTDOOR-CHANNE.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",OUTDOOR CHANNEL 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110275
+#EXTINF:-1 tvg-id="" tvg-name="(+)OWN " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/own.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",OWN 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110276
+#EXTINF:-1 tvg-id="" tvg-name="(+)PBC JAMAICA " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/PBC-JAMAICA.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",PBC JAMAICA 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110277
+#EXTINF:-1 tvg-id="" tvg-name="(+)PBS KIDS " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/PBS-KIDS.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",PBS KIDS 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110278
+#EXTINF:-1 tvg-id="" tvg-name="(+)PBS " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/PBS.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",PBS 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110279
+#EXTINF:-1 tvg-id="" tvg-name="(+)PETS TV " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/PETS-TV.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",PETS TV 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110280
+#EXTINF:-1 tvg-id="" tvg-name="(+)POWER 106FM" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/POWER-106FM.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",POWER 106FM
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110281
+#EXTINF:-1 tvg-id="" tvg-name="(+)RECIPE TV " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/RECIPE-TV.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",RECIPE TV 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110282
+#EXTINF:-1 tvg-id="" tvg-name="(+)RETV " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/retv.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",RETV 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110283
+#EXTINF:-1 tvg-id="" tvg-name="(+)RJR 94FM" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/RJR-94FM.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",RJR 94FM
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110284
+#EXTINF:-1 tvg-id="" tvg-name="(+)RT DOCUMENTARY " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/RT-DOCUMENTARY.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",RT DOCUMENTARY 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110285
+#EXTINF:-1 tvg-id="" tvg-name="(+)RUSH PLUS " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/RUSH-PLUS.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",RUSH PLUS 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110286
+#EXTINF:-1 tvg-id="" tvg-name="(+)SMILE CHILD " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/SMILE-CHILD.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",SMILE CHILD 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110287
+#EXTINF:-1 tvg-id="" tvg-name="(+)SPACE " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/SPACE.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",SPACE 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110288
+#EXTINF:-1 tvg-id="" tvg-name="(+)STUDIO UNIVERSAL " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/STUDIO-UNIVERSAL.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",STUDIO UNIVERSAL 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110289
+#EXTINF:-1 tvg-id="" tvg-name="(+)SYFY " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/SYFY.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",SYFY 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110290
+#EXTINF:-1 tvg-id="" tvg-name="(+)TBS " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/TBS.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",TBS 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110292
+#EXTINF:-1 tvg-id="" tvg-name="(+)TCM " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/TCM.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",TCM 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110293
+#EXTINF:-1 tvg-id="" tvg-name="(+)TEENNICK " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/TEENNICK.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",TEENNICK 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110294
+#EXTINF:-1 tvg-id="" tvg-name="(+)TELECENTRO (DO) " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/TELECENTRO-(DO).png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",TELECENTRO (DO) 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110295
+#EXTINF:-1 tvg-id="" tvg-name="(+)TLC " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/TLC.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",TLC 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110297
+#EXTINF:-1 tvg-id="" tvg-name="(+)TNT " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/TNT.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",TNT 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110298
+#EXTINF:-1 tvg-id="" tvg-name="(+)TOONCAST " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Tooncast.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",TOONCAST 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110299
+#EXTINF:-1 tvg-id="" tvg-name="(+)TRU TV " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/TruTV.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",TRU TV 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110300
+#EXTINF:-1 tvg-id="" tvg-name="(+)TRAVEL CHANNEL " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Travel_Chann.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",TRAVEL CHANNEL 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110301
+#EXTINF:-1 tvg-id="" tvg-name="(+)TVJ SPORTS NETWORK " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/TVJ-SPORTS-NETWORK.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",TVJ SPORTS NETWORK 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110302
+#EXTINF:-1 tvg-id="" tvg-name="(+)TVJ " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/TVJ.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",TVJ 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110303
+#EXTINF:-1 tvg-id="" tvg-name="(+)USA NETWORK " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/USA_Network.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",USA NETWORK 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110304
+#EXTINF:-1 tvg-id="" tvg-name="(+)VH1 " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/VH1.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",VH1 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110305
+#EXTINF:-1 tvg-id="" tvg-name="(+)WARNER " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/WARNER.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",WARNER 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110306
+#EXTINF:-1 tvg-id="" tvg-name="(+)WGN9 " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/WGN9.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",WGN9 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110308
+#EXTINF:-1 tvg-id="" tvg-name="(+)YUPPTV " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/YUPPTV.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",YUPPTV 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110309
+#EXTINF:-1 tvg-id="" tvg-name="(+)ZEE CINEMA " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/zeeCINIMA.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",ZEE CINEMA 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110310
+#EXTINF:-1 tvg-id="" tvg-name="(+)CNC3 " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/CNC3.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",CNC3 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110312
+#EXTINF:-1 tvg-id="" tvg-name="(+)TELEMICRO INTERNACIONAL " tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/TELEMICRO-INTERNACIONA.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",TELEMICRO INTERNACIONAL 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/110316
+#EXTINF:-1 tvg-id="" tvg-name="(+)Tele Cibao" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/telecibao.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",Tele Cibao
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271723
+#EXTINF:-1 tvg-id="" tvg-name="(+)HM TV" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/HMTV.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",HM TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271722
+#EXTINF:-1 tvg-id="" tvg-name="(+)Radio 105 Full" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/radio-105-hd(1).png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",Radio 105 Full
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271721
+#EXTINF:-1 tvg-id="" tvg-name="(+)Canal 26 TV" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Canal_26_Argentina.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",Canal 26 TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271720
+#EXTINF:-1 tvg-id="" tvg-name="(+)Tele Nord Canal 8" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Telenord.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",Tele Nord Canal 8
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271719
+#EXTINF:-1 tvg-id="" tvg-name="(+)Hispan TV" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Hispan_Tv.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",Hispan TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271718
+#EXTINF:-1 tvg-id="" tvg-name="(+)La Mia TV" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/61evHaSjitL.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",La Mia TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271717
+#EXTINF:-1 tvg-id="" tvg-name="(+)Fuego TV" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/fuego%20TV.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",Fuego TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271716
+#EXTINF:-1 tvg-id="" tvg-name="(+)ZOL TV" tvg-logo="http://logo.panel.cx/logo/LATINO/DOMINICAN/ZOTTV.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",ZOL TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271715
+#EXTINF:-1 tvg-id="" tvg-name="(+)Tele Canal 12" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Canal_12.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",Tele Canal 12
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271714
+#EXTINF:-1 tvg-id="" tvg-name="(+)VALLEVISION" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/valley-vision(1).png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",VALLEVISION
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271713
+#EXTINF:-1 tvg-id="" tvg-name="(+)TVS" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/TVS.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",TVS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271712
+#EXTINF:-1 tvg-id="" tvg-name="(+)PH TV" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/One-PH.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",PH TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271711
+#EXTINF:-1 tvg-id="cdnsportsmax.do" tvg-name="(+)CDN" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/cdn.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",CDN
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271710
+#EXTINF:-1 tvg-id="" tvg-name="(+)Ready TV" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/HD_ready.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",Ready TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271709
+#EXTINF:-1 tvg-id="" tvg-name="(+)Telenord Canal 12" tvg-logo="http://logo.panel.cx/logo/LATINO/DOMINICAN/Telenord-CanaL(1).png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",Telenord Canal 12
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271708
+#EXTINF:-1 tvg-id="" tvg-name="(+)TDN Medios" tvg-logo="http://logo.panel.cx/logo/LATINO/DOMINICAN/TDN%20Medios(1).png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",TDN Medios
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271707
+#EXTINF:-1 tvg-id="" tvg-name="(+)Z TV" tvg-logo="http://logo.panel.cx/logo/LATINO/DOMINICAN/ZTV(1).png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",Z TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271706
+#EXTINF:-1 tvg-id="" tvg-name="(+)Montana TV" tvg-logo="http://logo.panel.cx/logo/LATINO/DOMINICAN/Montana_Television(1).png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",Montana TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271704
+#EXTINF:-1 tvg-id="" tvg-name="(+)Tele Bendicion" tvg-logo="http://logo.panel.cx/logo/LATINO/DOMINICAN/telebendicion.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",Tele Bendicion
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271703
+#EXTINF:-1 tvg-id="" tvg-name="(+)Tele Milenio" tvg-logo="http://logo.panel.cx/logo/LATINO/DOMINICAN/Milenio_Television.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",Tele Milenio
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271702
+#EXTINF:-1 tvg-id="" tvg-name="(+)RNN TV" tvg-logo="http://logo.panel.cx/logo/LATINO/DOMINICAN/RNN.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",RNN TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271701
+#EXTINF:-1 tvg-id="" tvg-name="(+)Super TV 55" tvg-logo="http://logo.panel.cx/logo/LATINO/DOMINICAN/ar-super-tv(1).png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",Super TV 55
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271700
+#EXTINF:-1 tvg-id="" tvg-name="(+)Nuevo Tiempo" tvg-logo="http://logo.panel.cx/logo/LATINO/DOMINICAN/cropped-logont.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",Nuevo Tiempo
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271699
+#EXTINF:-1 tvg-id="" tvg-name="(+)ORBIT TV" tvg-logo="http://logo.panel.cx/logo/LATINO/DOMINICAN/Orbitlogo.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",ORBIT TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271698
+#EXTINF:-1 tvg-id="" tvg-name="(+)ONDA TV" tvg-logo="http://logo.panel.cx/logo/LATINO/DOMINICAN/Ondatv.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",ONDA TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271697
+#EXTINF:-1 tvg-id="" tvg-name="(+)HITS 360 TV" tvg-logo="http://logo.panel.cx/logo/LATINO/DOMINICAN/hits-360(1).png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",HITS 360 TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271696
+#EXTINF:-1 tvg-id="" tvg-name="(+)Romana TV" tvg-logo="http://logo.panel.cx/logo/LATINO/DOMINICAN/romana-tv.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",Romana TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271695
+#EXTINF:-1 tvg-id="" tvg-name="(+)Hilando Fino TV" tvg-logo="http://logo.panel.cx/logo/LATINO/DOMINICAN/Hilando%20Fino%20TV(1).png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",Hilando Fino TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271694
+#EXTINF:-1 tvg-id="" tvg-name="(+)GH TELEVISION" tvg-logo="http://logo.panel.cx/logo/LATINO/DOMINICAN/GHTV.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",GH TELEVISION
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271693
+#EXTINF:-1 tvg-id="" tvg-name="(+)GDM Television" tvg-logo="http://logo.panel.cx/logo/LATINO/DOMINICAN/GDM.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",GDM Television
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271692
+#EXTINF:-1 tvg-id="" tvg-name="(+)France 24 Espagnol" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/FRANCE_24.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",France 24 Espagnol
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271691
+#EXTINF:-1 tvg-id="digital15.do" tvg-name="(+)Digital Vision" tvg-logo="http://logo.panel.cx/logo/LATINO/DOMINICAN/digital-vision.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",Digital Vision
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271690
+#EXTINF:-1 tvg-id="" tvg-name="(+)DAN TV" tvg-logo="http://logo.panel.cx/logo/LATINO/DOMINICAN/DAN(2).png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",DAN TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271689
+#EXTINF:-1 tvg-id="" tvg-name="(+)Canal 19" tvg-logo="http://logo.panel.cx/logo/LATINO/DOMINICAN/19CANAL.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",Canal 19
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271688
+#EXTINF:-1 tvg-id="" tvg-name="(+)Carivision" tvg-logo="http://logo.panel.cx/logo/LATINO/DOMINICAN/CARV.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",Carivision
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271687
+#EXTINF:-1 tvg-id="" tvg-name="(+)Ame" tvg-logo="http://logo.panel.cx/logo/LATINO/DOMINICAN/AME.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",Ame
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271686
+#EXTINF:-1 tvg-id="" tvg-name="(+)ZTV" tvg-logo="http://logo.panel.cx/logo/LATINO/DOMINICAN/ZTV(1).png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",ZTV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271685
+#EXTINF:-1 tvg-id="teleuniverso.do" tvg-name="(+)TELEUNIVERSO" tvg-logo="http://logo.panel.cx/logo/LATINO/DOMINICAN/TELEUNIVERSO.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",TELEUNIVERSO
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/234691
+#EXTINF:-1 tvg-id="" tvg-name="(+)CERTV" tvg-logo="http://logo.panel.cx/logo/LATINO/CERTV.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",CERTV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/143976
+#EXTINF:-1 tvg-id="" tvg-name="(+)DIGITAL 15" tvg-logo="http://logo.panel.cx/logo/LATINO/Digital-quinz.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",DIGITAL 15
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/143975
+#EXTINF:-1 tvg-id="" tvg-name="(+)MICROVISION" tvg-logo="http://logo.panel.cx/logo/LATINO/MICROVISION.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",MICROVISION
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/143973
+#EXTINF:-1 tvg-id="telecentro.do" tvg-name="(+)TELECENTRO" tvg-logo="http://logo.panel.cx/logo/LATINO/Telecentro.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",TELECENTRO
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/143971
+#EXTINF:-1 tvg-id="telemicro.do" tvg-name="(+)TELEMICRO" tvg-logo="http://logo.panel.cx/logo/LATINO/Telemicro.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",TELEMICRO
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/143970
+#EXTINF:-1 tvg-id="" tvg-name="(+)READY TELEVISION" tvg-logo="http://logo.panel.cx/logo/LATINO/READY-TV.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",READY TELEVISION
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/143966
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL 9" tvg-logo="http://logo.panel.cx/logo/LATINO/CANAL9.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",CANAL 9
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30564
+#EXTINF:-1 tvg-id="colorvision.do" tvg-name="(+)COLORVISION" tvg-logo="http://logo.panel.cx/logo/LATINO/COLORVISION.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",COLORVISION
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30563
+#EXTINF:-1 tvg-id="telesistema.do" tvg-name="(+)TELESISTEMA" tvg-logo="http://logo.panel.cx/logo/LATINO/TELESISTEMA.png" group-title="CARIBBIEAN_REPUBLIC-DOMINICAN",TELESISTEMA
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30561
+#EXTINF:-1 tvg-id="" tvg-name="(+)CUBAVISION" tvg-logo="http://logo.panel.cx/logo/LATINO/CUBA/CUBAVISION.png" group-title="CUBA",CUBAVISION
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/187616
+#EXTINF:-1 tvg-id="" tvg-name="(+)CUBAVISIONINTER" tvg-logo="http://logo.panel.cx/logo/LATINO/CUBA/CUBAVISION.png" group-title="CUBA",CUBAVISIONINTER
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/187615
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL CARIBE" tvg-logo="http://logo.panel.cx/logo/LATINO/CUBA/CANAL-CARIBE.png" group-title="CUBA",CANAL CARIBE
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/197696
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL HABANA" tvg-logo="http://logo.panel.cx/logo/LATINO/CUBA/CANALHABANA.png" group-title="CUBA",CANAL HABANA
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/197697
+#EXTINF:-1 tvg-id="" tvg-name="(+)CONTRIBUCION" tvg-logo="http://logo.panel.cx/logo/LATINO/CONTRIBUCION.png" group-title="CUBA",CONTRIBUCION
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/197698
+#EXTINF:-1 tvg-id="" tvg-name="(+)ACN" tvg-logo="http://logo.panel.cx/logo/LATINO/CUBA/ACN.png" group-title="CUBA",ACN
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/187625
+#EXTINF:-1 tvg-id="" tvg-name="(+)INFANTIL" tvg-logo="http://logo.panel.cx/logo/LATINO/CUBA/BabyTV.png" group-title="CUBA",INFANTIL
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/187619
+#EXTINF:-1 tvg-id="" tvg-name="(+)CUBAMAX" tvg-logo="http://logo.panel.cx/logo/LATINO/Cuba-max-tv.png" group-title="CUBA",CUBAMAX
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/195247
+#EXTINF:-1 tvg-id="" tvg-name="(+)CUBAVISION" tvg-logo="http://logo.panel.cx/logo/LATINO/CUBA/CUBAVISION.png" group-title="CUBA",CUBAVISION
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30695
+#EXTINF:-1 tvg-id="" tvg-name="(+)CUBAVISION INTERNACIONAL" tvg-logo="http://logo.panel.cx/logo/LATINO/CUBA/CUBAVISION.png" group-title="CUBA",CUBAVISION INTERNACIONAL
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30694
+#EXTINF:-1 tvg-id="" tvg-name="(+)AMERICATEVE" tvg-logo="http://logo.panel.cx/logo/LATINO/AMERICATELEVISION.png" group-title="CUBA",AMERICATEVE
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69075
+#EXTINF:-1 tvg-id="" tvg-name="(+)GamaTV" tvg-logo="http://logo.panel.cx/logo/LATINO/EQUADOR/GAMATV.png" group-title="EQUADOR_GUATEMALA_HONDURAS",GamaTV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/190261
+#EXTINF:-1 tvg-id="" tvg-name="(+)TeleAmazonas" tvg-logo="http://logo.panel.cx/logo/LATINO/EQUADOR/Teleamazonas.png" group-title="EQUADOR_GUATEMALA_HONDURAS",TeleAmazonas
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/190262
+#EXTINF:-1 tvg-id="" tvg-name="(+)EcuadorTV" tvg-logo="http://logo.panel.cx/logo/LATINO/EQUADOR/EcuadorTV.png" group-title="EQUADOR_GUATEMALA_HONDURAS",EcuadorTV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/190264
+#EXTINF:-1 tvg-id="" tvg-name="(+)Ecuavisa" tvg-logo="http://logo.panel.cx/logo/LATINO/Ecuavisa.png" group-title="EQUADOR_GUATEMALA_HONDURAS",Ecuavisa
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/190265
+#EXTINF:-1 tvg-id="" tvg-name="(+)Ecuador TC" tvg-logo="http://logo.panel.cx/logo/LATINO/Ecuador-TC.png" group-title="EQUADOR_GUATEMALA_HONDURAS",Ecuador TC
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/190266
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL UNO" tvg-logo="http://logo.panel.cx/logo/LATINO/EQUADOR/CANALUNO.png" group-title="EQUADOR_GUATEMALA_HONDURAS",CANAL UNO
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30690
+#EXTINF:-1 tvg-id="" tvg-name="(+)ECUADOR TV" tvg-logo="http://logo.panel.cx/logo/LATINO/EQUADOR/EcuadorTV.png" group-title="EQUADOR_GUATEMALA_HONDURAS",ECUADOR TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30689
+#EXTINF:-1 tvg-id="" tvg-name="(+)ECUAVISA" tvg-logo="http://logo.panel.cx/logo/LATINO/EQUADOR/Ecuavisa.png" group-title="EQUADOR_GUATEMALA_HONDURAS",ECUAVISA
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30688
+#EXTINF:-1 tvg-id="" tvg-name="(+)RTS" tvg-logo="http://logo.panel.cx/logo/LATINO/EQUADOR/RTS.png" group-title="EQUADOR_GUATEMALA_HONDURAS",RTS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30684
+#EXTINF:-1 tvg-id="" tvg-name="(+)TC ECUADOR" tvg-logo="http://logo.panel.cx/logo/LATINO/EQUADOR/Tc_logo.png" group-title="EQUADOR_GUATEMALA_HONDURAS",TC ECUADOR
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30683
+#EXTINF:-1 tvg-id="" tvg-name="(+)GT - CANAL 11" tvg-logo="http://logo.panel.cx/logo/LATINO/GUATIMALA/canal11.png" group-title="EQUADOR_GUATEMALA_HONDURAS",CANAL 11
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/215606
+#EXTINF:-1 tvg-id="" tvg-name="(+)GT - CANAL 3" tvg-logo="http://logo.panel.cx/logo/LATINO/GUATIMALA/Canal3.png" group-title="EQUADOR_GUATEMALA_HONDURAS",CANAL 3
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/215607
+#EXTINF:-1 tvg-id="" tvg-name="(+)GT - CANAL ANTIGUA" tvg-logo="http://logo.panel.cx/logo/LATINO/GUATIMALA/CANALANTIGUA.png" group-title="EQUADOR_GUATEMALA_HONDURAS",CANAL ANTIGUA
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/215609
+#EXTINF:-1 tvg-id="" tvg-name="(+)GT - GUATEVISION" tvg-logo="http://logo.panel.cx/logo/LATINO/GUATIMALA/GUATEVISION.png" group-title="EQUADOR_GUATEMALA_HONDURAS",GUATEVISION
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/215610
+#EXTINF:-1 tvg-id="" tvg-name="(+)GT - RETRO TV" tvg-logo="http://logo.panel.cx/logo/LATINO/GUATIMALA/RETROTV.png" group-title="EQUADOR_GUATEMALA_HONDURAS",RETRO TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/215611
+#EXTINF:-1 tvg-id="" tvg-name="(+)AZTECA HONDURAS" tvg-logo="http://logo.panel.cx/logo/LATINO/HONDURAS/TVAzteca_Honduras.png" group-title="EQUADOR_GUATEMALA_HONDURAS",AZTECA HONDURAS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/214629
+#EXTINF:-1 tvg-id="" tvg-name="(+)CAMPUS TV" tvg-logo="http://logo.panel.cx/logo/LATINO/HONDURAS/CAMPUSTV.png" group-title="EQUADOR_GUATEMALA_HONDURAS",CAMPUS TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/214630
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL 11" tvg-logo="http://logo.panel.cx/logo/LATINO/HONDURAS/Canal11.png" group-title="EQUADOR_GUATEMALA_HONDURAS",CANAL 11
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/214631
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL 5" tvg-logo="http://logo.panel.cx/logo/LATINO/HONDURAS/Canal_5.png" group-title="EQUADOR_GUATEMALA_HONDURAS",CANAL 5
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/214633
+#EXTINF:-1 tvg-id="" tvg-name="(+)TVC EL LIDER" tvg-logo="http://logo.panel.cx/logo/LATINO/HONDURAS/Canal_5.png" group-title="EQUADOR_GUATEMALA_HONDURAS",TVC EL LIDER
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/214634
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL 6" tvg-logo="http://logo.panel.cx/logo/LATINO/HONDURAS/Canal6hd.png" group-title="EQUADOR_GUATEMALA_HONDURAS",CANAL 6
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/214635
+#EXTINF:-1 tvg-id="" tvg-name="(+)TELE CADENA" tvg-logo="http://logo.panel.cx/logo/LATINO/HONDURAS/Telecadena.png" group-title="EQUADOR_GUATEMALA_HONDURAS",TELE CADENA
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/214636
+#EXTINF:-1 tvg-id="" tvg-name="(+)TELE PROGRESO" tvg-logo="http://logo.panel.cx/logo/LATINO/HONDURAS/TELEPROGRESO.png" group-title="EQUADOR_GUATEMALA_HONDURAS",TELE PROGRESO
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/214638
+#EXTINF:-1 tvg-id="" tvg-name="(+)TSI" tvg-logo="http://logo.panel.cx/logo/LATINO/HONDURAS/TSICHANNEL.png" group-title="EQUADOR_GUATEMALA_HONDURAS",TSI
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/214639
+#EXTINF:-1 tvg-id="" tvg-name="(+)UNE TV" tvg-logo="http://logo.panel.cx/logo/LATINO/HONDURAS/Unettv.png" group-title="EQUADOR_GUATEMALA_HONDURAS",UNE TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/214640
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL 10" tvg-logo="http://logo.panel.cx/logo/LATINO/HONDURAS/Canal10.png" group-title="EQUADOR_GUATEMALA_HONDURAS",CANAL 10
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/214642
+#EXTINF:-1 tvg-id="" tvg-name="(+)Via ATV" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/atv-martinique.png" group-title="HAITI",Via ATV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271679
+#EXTINF:-1 tvg-id="" tvg-name="(+)TV5 Monde" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/TV5Monde.png" group-title="HAITI",TV5 Monde
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271678
+#EXTINF:-1 tvg-id="" tvg-name="(+)Tropik TV" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/TROPIK-TV.png" group-title="HAITI",Tropik TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271677
+#EXTINF:-1 tvg-id="" tvg-name="(+)PLEZI TV" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Tele_Haiti.png" group-title="HAITI",PLEZI TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271667
+#EXTINF:-1 tvg-id="" tvg-name="(+)P2M TV" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/P2M-TV-.png" group-title="HAITI",P2M TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271666
+#EXTINF:-1 tvg-id="" tvg-name="(+)Novela Channel" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Telenovela.png" group-title="HAITI",Novela Channel
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271665
+#EXTINF:-1 tvg-id="" tvg-name="(+)NetAlKole TV" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/netalkoletv(1).png" group-title="HAITI",NetAlKole TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271664
+#EXTINF:-1 tvg-id="" tvg-name="(+)Manman Pitit Mari" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/maxresdefault.png" group-title="HAITI",Manman Pitit Mari
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271663
+#EXTINF:-1 tvg-id="" tvg-name="(+)Konpa Events" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Konpa-Events(1).png" group-title="HAITI",Konpa Events
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271662
+#EXTINF:-1 tvg-id="" tvg-name="(+)Kajou TV" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Kajou%20TV.png" group-title="HAITI",Kajou TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271661
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI TV" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Haiti-Tv.png" group-title="HAITI",HAITI TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271659
+#EXTINF:-1 tvg-id="" tvg-name="(+)France 24" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/FRANCE_24.png" group-title="HAITI",France 24
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271658
+#EXTINF:-1 tvg-id="" tvg-name="(+)Euro News" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Euro%20News(1).png" group-title="HAITI",Euro News
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271657
+#EXTINF:-1 tvg-id="" tvg-name="(+)Dega TV" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/DEGAYTV.png" group-title="HAITI",Dega TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271656
+#EXTINF:-1 tvg-id="" tvg-name="(+)DBM TV" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/dbm.png" group-title="HAITI",DBM TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271655
+#EXTINF:-1 tvg-id="" tvg-name="(+)BNN Boston" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/ctv-sched.png" group-title="HAITI",BNN Boston
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271654
+#EXTINF:-1 tvg-id="" tvg-name="(+)Afrobeats" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/afrobeats.png" group-title="HAITI",Afrobeats
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271653
+#EXTINF:-1 tvg-id="" tvg-name="(+)Tele Shalom" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/SHALOM.png" group-title="HAITI",Tele Shalom
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271676
+#EXTINF:-1 tvg-id="" tvg-name="(+)Tele PAM" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/TelePAM.png" group-title="HAITI",Tele PAM
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271675
+#EXTINF:-1 tvg-id="" tvg-name="(+)Tele Metropole" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/tele-metropole.png" group-title="HAITI",Tele Metropole
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271674
+#EXTINF:-1 tvg-id="" tvg-name="(+)Tele Hit" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/telehit.png" group-title="HAITI",Tele Hit
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271673
+#EXTINF:-1 tvg-id="" tvg-name="(+)Tele Espace" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/espace-fm.png" group-title="HAITI",Tele Espace
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271672
+#EXTINF:-1 tvg-id="" tvg-name="(+)Tele Eclair" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Tele%20Eclair.png" group-title="HAITI",Tele Eclair
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271671
+#EXTINF:-1 tvg-id="" tvg-name="(+)Tele 4VEH" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/-4VEH.png" group-title="HAITI",Tele 4VEH
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271670
+#EXTINF:-1 tvg-id="" tvg-name="(+)Shekinah TV" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Shekinah.png" group-title="HAITI",Shekinah TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271669
+#EXTINF:-1 tvg-id="" tvg-name="(+)Radio Tele Shilo" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Radio%20Tele%20Shilo.png" group-title="HAITI",Radio Tele Shilo
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/271668
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - TELE BOSTON" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/sun-tv.png" group-title="HAITI",TELE BOSTON
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/108944
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - NAGO TV" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/NAGO-TV.png" group-title="HAITI",NAGO TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/108945
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - TELE LOUANGE" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/TELE-LOUANGE.png" group-title="HAITI",TELE LOUANGE
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/108946
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - LC TV" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/NAGO-TV.png" group-title="HAITI",LC TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/108947
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - Tropical Groove" tvg-logo="http://logo.panel.cx/logo/FLAGS/flag_haiti.png" group-title="HAITI",Tropical Groove
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/149707
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - RTNH" tvg-logo="http://logo.panel.cx/logo/FLAGS/flag_haiti.png" group-title="HAITI",RTNH
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/149708
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - Tele Adoration" tvg-logo="http://logo.panel.cx/logo/FLAGS/flag_haiti.png" group-title="HAITI",Tele Adoration
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/149709
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - Tele Caraibes" tvg-logo="http://logo.panel.cx/logo/FLAGS/flag_haiti.png" group-title="HAITI",Tele Caraibes
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/149710
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - Haiti News" tvg-logo="http://logo.panel.cx/logo/FLAGS/flag_haiti.png" group-title="HAITI",Haiti News
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/149711
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - TVA 30" tvg-logo="http://logo.panel.cx/logo/FLAGS/flag_haiti.png" group-title="HAITI",TVA 30
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/149715
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - Mizik TV" tvg-logo="http://logo.panel.cx/logo/FLAGS/flag_haiti.png" group-title="HAITI",Mizik TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/149716
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - Tele TMA" tvg-logo="http://logo.panel.cx/logo/FLAGS/flag_haiti.png" group-title="HAITI",Tele TMA
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/149717
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - Tele Anacaona" tvg-logo="http://logo.panel.cx/logo/FLAGS/flag_haiti.png" group-title="HAITI",Tele Anacaona
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/149718
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - Kanaval TV" tvg-logo="http://logo.panel.cx/logo/FLAGS/flag_haiti.png" group-title="HAITI",Kanaval TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/149719
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - Tele Pacific" tvg-logo="http://logo.panel.cx/logo/FLAGS/flag_haiti.png" group-title="HAITI",Tele Pacific
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/149720
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - Island TV" tvg-logo="http://logo.panel.cx/logo/FLAGS/flag_haiti.png" group-title="HAITI",Island TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/149721
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - Tele Louange" tvg-logo="http://logo.panel.cx/logo/FLAGS/flag_haiti.png" group-title="HAITI",Tele Louange
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/149722
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - Trace Tropical" tvg-logo="http://logo.panel.cx/logo/FLAGS/flag_haiti.png" group-title="HAITI",Trace Tropical
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/149724
+#EXTINF:-1 tvg-id="" tvg-name="(+)Haiti - TRACE AFRICA" tvg-logo="http://logo.panel.cx/logo/AFRICA/CANAL+/TRACEAFRIKA.png" group-title="HAITI",TRACE AFRICA
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/195551
+#EXTINF:-1 tvg-id="" tvg-name="(+)Haiti - TRACE LATINA" tvg-logo="http://logo.panel.cx/logo/AFRICA/CANAL+/TRACELATINA.png" group-title="HAITI",TRACE LATINA
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/195552
+#EXTINF:-1 tvg-id="" tvg-name="(+)Haiti - TRACE CARIBBEAN" tvg-logo="http://logo.panel.cx/logo/AFRICA/CANAL+/TRACECARIBBEAN.png" group-title="HAITI",TRACE CARIBBEAN
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/195553
+#EXTINF:-1 tvg-id="" tvg-name="(+)Haiti - TRACE URBAN" tvg-logo="http://logo.panel.cx/logo/AFRICA/CANAL+/TRACEURBAN.png" group-title="HAITI",TRACE URBAN
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/195554
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - Tripotay Lakay" tvg-logo="http://logo.panel.cx/logo/FLAGS/flag_haiti.png" group-title="HAITI",Tripotay Lakay
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/149725
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - West Indies Live" tvg-logo="http://logo.panel.cx/logo/FLAGS/flag_haiti.png" group-title="HAITI",West Indies Live
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/149729
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - Tele Puissance" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Tele%20Puissance.png" group-title="HAITI",Tele Puissance
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/149732
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - Touche Douce TV" tvg-logo="http://logo.panel.cx/logo/FLAGS/flag_haiti.png" group-title="HAITI",Touche Douce TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/149734
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - Novelas TV" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Novelas%20TV.png" group-title="HAITI",Novelas TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/149735
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - Africa Music" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Africa%20Music.png" group-title="HAITI",Africa Music
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/149736
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - RTH 2000" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/RTH%202000.png" group-title="HAITI",RTH 2000
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/149738
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - TCH Tele" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/TCH%20Tele.png" group-title="HAITI",TCH Tele
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/149739
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - Tele Caramel" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Tele%20Caramel.png" group-title="HAITI",Tele Caramel
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/149741
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - Media Pam" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Media%20Pam.png" group-title="HAITI",Media Pam
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/149742
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - Tele Hirondelle" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Tele%20Hirondelle.png" group-title="HAITI",Tele Hirondelle
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/149746
+#EXTINF:-1 tvg-id="" tvg-name="(+)HAITI - Tele 6 Univers" tvg-logo="http://logo.panel.cx/logo/AMERICA/CARIBBIEAN/Tele%206%20Univers.png" group-title="HAITI",Tele 6 Univers
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/149748
+#EXTINF:-1 tvg-id="" tvg-name="(+)GALAVISION" tvg-logo="http://logo.panel.cx/logo/LATINO/Galavision.png" group-title="LATINO",GALAVISION
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/195243
+#EXTINF:-1 tvg-id="" tvg-name="(+)CENTROAMERICA TV" tvg-logo="http://logo.panel.cx/logo/LATINO/CentroAmericaTV.png" group-title="LATINO",CENTROAMERICA TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/195245
+#EXTINF:-1 tvg-id="" tvg-name="(+)ESTRELLA TV" tvg-logo="http://logo.panel.cx/logo/LATINO/ESTRELLA-TV.png" group-title="LATINO",ESTRELLA TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/195246
+#EXTINF:-1 tvg-id="pasiones.us" tvg-name="(+)Pasiones" tvg-logo="http://logo.panel.cx/logo/LATINO/PASIONES.png" group-title="LATINO",Pasiones
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/200135
+#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="(+)ESPN Deportes" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/ESPN.png" group-title="LATINO",ESPN Deportes
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/200139
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="(+)Univision Deportes" tvg-logo="http://logo.panel.cx/logo/LATINO/UNIVISION.png" group-title="LATINO",Univision Deportes
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/200138
+#EXTINF:-1 tvg-id="foxdeportes.us" tvg-name="(+)Fox Deportes" tvg-logo="http://logo.panel.cx/logo/LATINO/FOX_Deportes.png" group-title="LATINO",Fox Deportes
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/200140
+#EXTINF:-1 tvg-id="univision41wxtv.us" tvg-name="(+)UNIVISION (NEW YORK) " tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/Univision-1-svg.png" group-title="LATINO",UNIVISION (NEW YORK) 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/194518
+#EXTINF:-1 tvg-id="telemundo.us" tvg-name="(+)TELEMUNDO (NEW YORK) " tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/TELEMUNDO.png" group-title="LATINO",TELEMUNDO (NEW YORK) 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/194519
+#EXTINF:-1 tvg-id="univision23wltv.us" tvg-name="(+)UNIVISION (MIAMI) " tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/Univision-1-svg.png" group-title="LATINO",UNIVISION (MIAMI) 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/194520
+#EXTINF:-1 tvg-id="unimas46kftr.us" tvg-name="(+)UNIVISION (Los Angeles) " tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/Univision-1-svg.png" group-title="LATINO",UNIVISION (Los Angeles) 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/194522
+#EXTINF:-1 tvg-id="" tvg-name="(+)UNIMAS " tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/UNIMAS.png" group-title="LATINO",UNIMAS 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/194524
+#EXTINF:-1 tvg-id="" tvg-name="(+)NBC UNIVERSO" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/NBC.png" group-title="LATINO",NBC UNIVERSO
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/194525
+#EXTINF:-1 tvg-id="telemundo.us" tvg-name="(+)TELEMUNDO" tvg-logo="http://logo.panel.cx/logo/LATINO/TELEMUNDO.png" group-title="LATINO",TELEMUNDO
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30680
+#EXTINF:-1 tvg-id="" tvg-name="(+)TELENOVELAS " tvg-logo="http://logo.panel.cx/logo/LATINO/TELENOVELAS.png" group-title="LATINO",TELENOVELAS 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/73099
+#EXTINF:-1 tvg-id="" tvg-name="(+)UNICABLE" tvg-logo="http://logo.panel.cx/logo/LATINO/Unicable.png" group-title="LATINO",UNICABLE
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30678
+#EXTINF:-1 tvg-id="" tvg-name="(+)UNIVERSAL CHANNEL" tvg-logo="http://logo.panel.cx/logo/LATINO/UNIVERSALCHANNEL.png" group-title="LATINO",UNIVERSAL CHANNEL
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30677
+#EXTINF:-1 tvg-id="univision.us" tvg-name="(+)UNIVISION" tvg-logo="http://logo.panel.cx/logo/LATINO/UNIVISION.png" group-title="LATINO",UNIVISION
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30676
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL DE LAS ESTRELLAS." tvg-logo="http://logo.panel.cx/logo/LATINO/CANALDELASESTRELLAS.png" group-title="LATINO",CANAL DE LAS ESTRELLAS.
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30675
+#EXTINF:-1 tvg-id="" tvg-name="(+)WARNER CHANNEL" tvg-logo="http://logo.panel.cx/logo/LATINO/WARNERCHANNEL.png" group-title="LATINO",WARNER CHANNEL
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30674
+#EXTINF:-1 tvg-id="" tvg-name="(+)FORO TV" tvg-logo="http://logo.panel.cx/logo/LATINO/FOROTV.png" group-title="LATINO",FORO TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30672
+#EXTINF:-1 tvg-id="" tvg-name="(+)SYFY" tvg-logo="http://logo.panel.cx/logo/LATINO/SYFY.png" group-title="LATINO",SYFY
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30671
+#EXTINF:-1 tvg-id="" tvg-name="(+)TCM" tvg-logo="http://logo.panel.cx/logo/LATINO/TCM.png" group-title="LATINO",TCM
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30670
+#EXTINF:-1 tvg-id="" tvg-name="(+)TLC" tvg-logo="http://logo.panel.cx/logo/LATINO/TLC.png" group-title="LATINO",TLC
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30669
+#EXTINF:-1 tvg-id="" tvg-name="(+)TNT" tvg-logo="http://logo.panel.cx/logo/LATINO/TNT.png" group-title="LATINO",TNT
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30668
+#EXTINF:-1 tvg-id="" tvg-name="(+)TNT SERIES" tvg-logo="http://logo.panel.cx/logo/LATINO/TNTSERIES.png" group-title="LATINO",TNT SERIES
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30667
+#EXTINF:-1 tvg-id="" tvg-name="(+)AXN" tvg-logo="http://logo.panel.cx/logo/LATINO/AXNTV.png" group-title="LATINO",AXN
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30666
+#EXTINF:-1 tvg-id="" tvg-name="(+)FOX." tvg-logo="http://logo.panel.cx/logo/LATINO/FOX.png" group-title="LATINO",FOX.
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30665
+#EXTINF:-1 tvg-id="" tvg-name="(+)FOX MOVIES" tvg-logo="http://logo.panel.cx/logo/LATINO/FOXMOVIESPREMUIM.png" group-title="LATINO",FOX MOVIES
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30664
+#EXTINF:-1 tvg-id="" tvg-name="(+)FOX ACTION" tvg-logo="http://logo.panel.cx/logo/LATINO/FOXACTIONTV.png" group-title="LATINO",FOX ACTION
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30663
+#EXTINF:-1 tvg-id="" tvg-name="(+)FOX CINEMA" tvg-logo="http://logo.panel.cx/logo/LATINO/FOXMOVIESPREMUIM.png" group-title="LATINO",FOX CINEMA
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30662
+#EXTINF:-1 tvg-id="" tvg-name="(+)FOX CLASSIC" tvg-logo="http://logo.panel.cx/logo/LATINO/FOXCLASSICS.png" group-title="LATINO",FOX CLASSIC
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30661
+#EXTINF:-1 tvg-id="" tvg-name="(+)FOX LIFE" tvg-logo="http://logo.panel.cx/logo/LATINO/FOXLIFECHANNELTV.png" group-title="LATINO",FOX LIFE
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30660
+#EXTINF:-1 tvg-id="" tvg-name="(+)E! ENTERTAINMENT" tvg-logo="http://logo.panel.cx/logo/LATINO/E!.png" group-title="LATINO",E! ENTERTAINMENT
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30659
+#EXTINF:-1 tvg-id="" tvg-name="(+)LIFETIME" tvg-logo="http://logo.panel.cx/logo/LATINO/LIFETIME.png" group-title="LATINO",LIFETIME
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30658
+#EXTINF:-1 tvg-id="" tvg-name="(+)SONY" tvg-logo="http://logo.panel.cx/logo/LATINO/SONYCHANNEL.png" group-title="LATINO",SONY
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30657
+#EXTINF:-1 tvg-id="" tvg-name="(+)FX" tvg-logo="http://logo.panel.cx/logo/LATINO/FXHD.png" group-title="LATINO",FX
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30656
+#EXTINF:-1 tvg-id="" tvg-name="(+)GALA TV" tvg-logo="http://logo.panel.cx/logo/LATINO/GALATV.png" group-title="LATINO",GALA TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30655
+#EXTINF:-1 tvg-id="" tvg-name="(+)GOLDEN" tvg-logo="http://logo.panel.cx/logo/LATINO/GOLDEN.png" group-title="LATINO",GOLDEN
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30654
+#EXTINF:-1 tvg-id="" tvg-name="(+)GOLDEN EDGE" tvg-logo="http://logo.panel.cx/logo/LATINO/GOLDENEDGE.png" group-title="LATINO",GOLDEN EDGE
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30653
+#EXTINF:-1 tvg-id="" tvg-name="(+)STUDIO UNIVERSAL" tvg-logo="http://logo.panel.cx/logo/LATINO/STUDIOUNIVERSALTV.png" group-title="LATINO",STUDIO UNIVERSAL
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30652
+#EXTINF:-1 tvg-id="" tvg-name="(+)TUMUSICA" tvg-logo="http://logo.panel.cx/logo/LATINO/MIMUSICA.png" group-title="LATINO",TUMUSICA
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30649
+#EXTINF:-1 tvg-id="" tvg-name="(+)VH1" tvg-logo="http://logo.panel.cx/logo/LATINO/VH1.png" group-title="LATINO",VH1
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30648
+#EXTINF:-1 tvg-id="" tvg-name="(+)CARACOL NOVELAS" tvg-logo="http://logo.panel.cx/logo/LATINO/Caracol_Novelas_2017 (1).png" group-title="LATINO",CARACOL NOVELAS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/213025
+#EXTINF:-1 tvg-id="" tvg-name="(+)WIN SPORT" tvg-logo="http://logo.panel.cx/logo/LATINO/WINSPORT.png" group-title="LATINO",WIN SPORT
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30647
+#EXTINF:-1 tvg-id="" tvg-name="(+)WIN SPORT PLUS" tvg-logo="http://logo.panel.cx/logo/LATINO/WINSPORT.png" group-title="LATINO",WIN SPORT PLUS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/139331
+#EXTINF:-1 tvg-id="" tvg-name="(+)52MX" tvg-logo="http://logo.panel.cx/logo/LATINO/52MX.png" group-title="LATINO",52MX
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30646
+#EXTINF:-1 tvg-id="" tvg-name="(+)A&E" tvg-logo="http://logo.panel.cx/logo/LATINO/AETV.png" group-title="LATINO",A&E
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30645
+#EXTINF:-1 tvg-id="" tvg-name="(+)AMC" tvg-logo="http://logo.panel.cx/logo/LATINO/AMCTV.png" group-title="LATINO",AMC
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30644
+#EXTINF:-1 tvg-id="" tvg-name="(+)ARTS" tvg-logo="http://logo.panel.cx/logo/LATINO/ARTSTV.png" group-title="LATINO",ARTS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30643
+#EXTINF:-1 tvg-id="" tvg-name="(+)AZ UNO" tvg-logo="http://logo.panel.cx/logo/LATINO/AZUNO.png" group-title="LATINO",AZ UNO
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30641
+#EXTINF:-1 tvg-id="" tvg-name="(+)AZTECA 7" tvg-logo="http://logo.panel.cx/logo/LATINO/Azteca_7.png" group-title="LATINO",AZTECA 7
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30640
+#EXTINF:-1 tvg-id="" tvg-name="(+)AZTECA CINEMA" tvg-logo="http://logo.panel.cx/logo/LATINO/AZTECACINEMA.png" group-title="LATINO",AZTECA CINEMA
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30638
+#EXTINF:-1 tvg-id="" tvg-name="(+)AZTECA CORAZON" tvg-logo="http://logo.panel.cx/logo/LATINO/AZTECACORAZON.png" group-title="LATINO",AZTECA CORAZON
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30637
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL 11" tvg-logo="http://logo.panel.cx/logo/LATINO/CANAL11.png" group-title="LATINO",CANAL 11
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30636
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL 5" tvg-logo="http://logo.panel.cx/logo/LATINO/CANAL5.png" group-title="LATINO",CANAL 5
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30634
+#EXTINF:-1 tvg-id="" tvg-name="(+)CINE LATINO" tvg-logo="http://logo.panel.cx/logo/LATINO/CINELATINO.png" group-title="LATINO",CINE LATINO
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30633
+#EXTINF:-1 tvg-id="" tvg-name="(+)CINECANAL" tvg-logo="http://logo.panel.cx/logo/LATINO/CINECANAL.png" group-title="LATINO",CINECANAL
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30632
+#EXTINF:-1 tvg-id="" tvg-name="(+)CINEMAX" tvg-logo="http://logo.panel.cx/logo/LATINO/CINEMAX.png" group-title="LATINO",CINEMAX
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30631
+#EXTINF:-1 tvg-id="" tvg-name="(+)CLARO" tvg-logo="http://logo.panel.cx/logo/LATINO/CLARO.png" group-title="LATINO",CLARO
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30630
+#EXTINF:-1 tvg-id="" tvg-name="(+)CNN" tvg-logo="http://logo.panel.cx/logo/LATINO/CNN.png" group-title="LATINO",CNN
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30629
+#EXTINF:-1 tvg-id="" tvg-name="(+)HISTORY" tvg-logo="http://logo.panel.cx/logo/LATINO/HISTORYCHANNELHD.png" group-title="LATINO",HISTORY
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30628
+#EXTINF:-1 tvg-id="" tvg-name="(+)HOLA TV" tvg-logo="http://logo.panel.cx/logo/LATINO/HTV.png" group-title="LATINO",HOLA TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30627
+#EXTINF:-1 tvg-id="" tvg-name="(+)HTV" tvg-logo="http://logo.panel.cx/logo/LATINO/HTV.png" group-title="LATINO",HTV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30626
+#EXTINF:-1 tvg-id="" tvg-name="(+)MILENIO TV" tvg-logo="http://logo.panel.cx/logo/LATINO/MILENIO%20TV.png" group-title="LATINO",MILENIO TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30623
+#EXTINF:-1 tvg-id="" tvg-name="(+)MTV." tvg-logo="http://logo.panel.cx/logo/LATINO/MTV..png" group-title="LATINO",MTV.
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30622
+#EXTINF:-1 tvg-id="" tvg-name="(+)PARAMOUNT" tvg-logo="http://logo.panel.cx/logo/LATINO/PARAMOUNTTV.png" group-title="LATINO",PARAMOUNT
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30621
+#EXTINF:-1 tvg-id="" tvg-name="(+)SPACE" tvg-logo="http://logo.panel.cx/logo/LATINO/SPACE.png" group-title="LATINO",SPACE
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30619
+#EXTINF:-1 tvg-id="" tvg-name="(+)NICK JR" tvg-logo="http://logo.panel.cx/logo/LATINO/NICKJR.png" group-title="LATINO",NICK JR
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30618
+#EXTINF:-1 tvg-id="" tvg-name="(+)NICKELODEON" tvg-logo="http://logo.panel.cx/logo/LATINO/NICKELODEON.png" group-title="LATINO",NICKELODEON
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30617
+#EXTINF:-1 tvg-id="" tvg-name="(+)DISNEY CHANNEL." tvg-logo="http://logo.panel.cx/logo/LATINO/DISNEYCHANNEL.png" group-title="LATINO",DISNEY CHANNEL.
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30616
+#EXTINF:-1 tvg-id="" tvg-name="(+)COMEDY CENTRAL" tvg-logo="http://logo.panel.cx/logo/LATINO/COMEDYCENTRALTV.png" group-title="LATINO",COMEDY CENTRAL
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30615
+#EXTINF:-1 tvg-id="" tvg-name="(+)CARTOON NETWORK." tvg-logo="http://logo.panel.cx/logo/LATINO/CARTOONNETWORK.png" group-title="LATINO",CARTOON NETWORK.
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30614
+#EXTINF:-1 tvg-id="" tvg-name="(+)BOOMERANG" tvg-logo="http://logo.panel.cx/logo/LATINO/BOOMERANG.png" group-title="LATINO",BOOMERANG
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30613
+#EXTINF:-1 tvg-id="" tvg-name="(+)DISNEY JR" tvg-logo="http://logo.panel.cx/logo/LATINO/DISNEYJR.png" group-title="LATINO",DISNEY JR
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30612
+#EXTINF:-1 tvg-id="" tvg-name="(+)NATGEO WILD" tvg-logo="http://logo.panel.cx/logo/LATINO/NATGEOWILD.png" group-title="LATINO",NATGEO WILD
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30610
+#EXTINF:-1 tvg-id="" tvg-name="(+)NATIONAL GEOGRAPHIC." tvg-logo="http://logo.panel.cx/logo/LATINO/NATIONALGEOGRAPHIC.png" group-title="LATINO",NATIONAL GEOGRAPHIC.
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30609
+#EXTINF:-1 tvg-id="" tvg-name="(+)ANIMAL PLANET." tvg-logo="http://logo.panel.cx/logo/LATINO/ANIMALPLANET.png" group-title="LATINO",ANIMAL PLANET.
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30608
+#EXTINF:-1 tvg-id="" tvg-name="(+)DISCOVERY  HOME & HEALTH" tvg-logo="http://logo.panel.cx/logo/LATINO/DISCOVERYHOME%26HEALTH.png" group-title="LATINO",DISCOVERY  HOME & HEALTH
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30607
+#EXTINF:-1 tvg-id="" tvg-name="(+)DISCOVERY CHANNEL" tvg-logo="http://logo.panel.cx/logo/LATINO/DISCOVERYCHANNELTV.png" group-title="LATINO",DISCOVERY CHANNEL
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30606
+#EXTINF:-1 tvg-id="" tvg-name="(+)DISCOVERY KIDS" tvg-logo="http://logo.panel.cx/logo/LATINO/DISCOVERYKIDS.png" group-title="LATINO",DISCOVERY KIDS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30605
+#EXTINF:-1 tvg-id="" tvg-name="(+)DISCOVERY SCIENCE" tvg-logo="http://logo.panel.cx/logo/LATINO/DISCOVERYSCIENCE.png" group-title="LATINO",DISCOVERY SCIENCE
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30604
+#EXTINF:-1 tvg-id="" tvg-name="(+)DISCOVERY TURBO." tvg-logo="http://logo.panel.cx/logo/LATINO/DISCOVERYTURBO.png" group-title="LATINO",DISCOVERY TURBO.
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30603
+#EXTINF:-1 tvg-id="" tvg-name="(+)INVESTIGATION DISCOVERY" tvg-logo="http://logo.panel.cx/logo/LATINO/INVESTIGATIONDISCOVERY.png" group-title="LATINO",INVESTIGATION DISCOVERY
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30602
+#EXTINF:-1 tvg-id="" tvg-name="(+)HBO" tvg-logo="http://logo.panel.cx/logo/LATINO/HBOTV.png" group-title="LATINO",HBO
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30601
+#EXTINF:-1 tvg-id="" tvg-name="(+)HBO 2" tvg-logo="http://logo.panel.cx/logo/LATINO/HBOTV2.png" group-title="LATINO",HBO 2
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30600
+#EXTINF:-1 tvg-id="" tvg-name="(+)HBO FAMILY" tvg-logo="http://logo.panel.cx/logo/LATINO/HBOFAMILY.png" group-title="LATINO",HBO FAMILY
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30599
+#EXTINF:-1 tvg-id="" tvg-name="(+)HBO PLUS" tvg-logo="http://logo.panel.cx/logo/LATINO/HBOPLUS.png" group-title="LATINO",HBO PLUS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30598
+#EXTINF:-1 tvg-id="" tvg-name="(+)HBO SIGNATURE" tvg-logo="http://logo.panel.cx/logo/LATINO/HBOSIGNATURETV.png" group-title="LATINO",HBO SIGNATURE
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30597
+#EXTINF:-1 tvg-id="" tvg-name="(+)FOX PREMIUM ACTION" tvg-logo="http://logo.panel.cx/logo/LATINO/FOXPREMUMACTION.png" group-title="LATINO",FOX PREMIUM ACTION
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30589
+#EXTINF:-1 tvg-id="" tvg-name="(+)FOX PREMIUM COMEDY" tvg-logo="http://logo.panel.cx/logo/LATINO/FOXPREMIUMCOMEDYTV.png" group-title="LATINO",FOX PREMIUM COMEDY
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30587
+#EXTINF:-1 tvg-id="" tvg-name="(+)FOX PREMIUM FAMILY" tvg-logo="http://logo.panel.cx/logo/LATINO/FOXFamilyHD.png" group-title="LATINO",FOX PREMIUM FAMILY
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30586
+#EXTINF:-1 tvg-id="" tvg-name="(+)FOX PREMIUM MOVIES" tvg-logo="http://logo.panel.cx/logo/LATINO/FOXPREMIUMMOVIESTV.png" group-title="LATINO",FOX PREMIUM MOVIES
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30585
+#EXTINF:-1 tvg-id="" tvg-name="(+)FOX PREMIUM SERIES" tvg-logo="http://logo.panel.cx/logo/LATINO/FOXPREMIUMSERIES.png" group-title="LATINO",FOX PREMIUM SERIES
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30584
+#EXTINF:-1 tvg-id="" tvg-name="(+)ESPN" tvg-logo="http://logo.panel.cx/logo/LATINO/ESPN.png" group-title="LATINO",ESPN
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30583
+#EXTINF:-1 tvg-id="" tvg-name="(+)ESPN 2." tvg-logo="http://logo.panel.cx/logo/LATINO/ESPN2.png" group-title="LATINO",ESPN 2.
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30582
+#EXTINF:-1 tvg-id="" tvg-name="(+)ESPN 3" tvg-logo="http://logo.panel.cx/logo/LATINO/ESPN3.png" group-title="LATINO",ESPN 3
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30581
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="(+)FOX SPORT" tvg-logo="http://logo.panel.cx/logo/LATINO/FOXSPORTHD.png" group-title="LATINO",FOX SPORT
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30580
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="(+)FOX SPORT 2" tvg-logo="http://logo.panel.cx/logo/LATINO/FOXSPORT2.png" group-title="LATINO",FOX SPORT 2
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/30579
+#EXTINF:-1 tvg-id="" tvg-name="(+)TUDN " tvg-logo="http://logo.panel.cx/logo/LATINO/TUDN.png" group-title="LATINO",TUDN 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/200868
+#EXTINF:-1 tvg-id="pasiones.co" tvg-name="(+)PASIONES " tvg-logo="http://logo.panel.cx/logo/LATINO/PASIONES.png" group-title="LATINO",PASIONES 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69101
+#EXTINF:-1 tvg-id="" tvg-name="(+)NICK 2" tvg-logo="http://logo.panel.cx/logo/LATINO/NICKELODEON.png" group-title="LATINO",NICK 2
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69100
+#EXTINF:-1 tvg-id="" tvg-name="(+)MASCHIC" tvg-logo="http://logo.panel.cx/logo/LATINO/MASCHICTV.png" group-title="LATINO",MASCHIC
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69098
+#EXTINF:-1 tvg-id="" tvg-name="(+)ISAT" tvg-logo="http://logo.panel.cx/logo/LATINO/Isat.png" group-title="LATINO",ISAT
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69097
+#EXTINF:-1 tvg-id="" tvg-name="(+)GOURMET" tvg-logo="http://logo.panel.cx/logo/LATINO/GOURMET.png" group-title="LATINO",GOURMET
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69093
+#EXTINF:-1 tvg-id="" tvg-name="(+)DISCOVERY THEATER" tvg-logo="http://logo.panel.cx/logo/LATINO/DISCOVERYCHANNELTV.png" group-title="LATINO",DISCOVERY THEATER
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69090
+#EXTINF:-1 tvg-id="univision.us" tvg-name="(+)UNIVISION DEPORTES" tvg-logo="http://logo.panel.cx/logo/LATINO/UNIVISION.png" group-title="LATINO",UNIVISION DEPORTES
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69089
+#EXTINF:-1 tvg-id="" tvg-name="(+)UNIMAS" tvg-logo="http://logo.panel.cx/logo/LATINO/UNIMAS.png" group-title="LATINO",UNIMAS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69088
+#EXTINF:-1 tvg-id="" tvg-name="(+)TRU TV" tvg-logo="http://logo.panel.cx/logo/LATINO/TRUTVCHANNEL.png" group-title="LATINO",TRU TV
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69087
+#EXTINF:-1 tvg-id="telemundo.us" tvg-name="(+)TELEMUNDO INTERNACIONAL" tvg-logo="http://logo.panel.cx/logo/LATINO/TELEMUNDO.png" group-title="LATINO",TELEMUNDO INTERNACIONAL
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69086
+#EXTINF:-1 tvg-id="" tvg-name="(+)TDN" tvg-logo="http://logo.panel.cx/logo/LATINO/TDN.png" group-title="LATINO",TDN
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69085
+#EXTINF:-1 tvg-id="" tvg-name="(+)TBS" tvg-logo="http://logo.panel.cx/logo/LATINO/TBSHD.png" group-title="LATINO",TBS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69084
+#EXTINF:-1 tvg-id="" tvg-name="(+)ONCE" tvg-logo="http://logo.panel.cx/logo/LATINO/ONCE.png" group-title="LATINO",ONCE
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69083
+#EXTINF:-1 tvg-id="" tvg-name="(+)MULTIPREMIER" tvg-logo="http://logo.panel.cx/logo/LATINO/MULTIPREMIER.png" group-title="LATINO",MULTIPREMIER
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69082
+#EXTINF:-1 tvg-id="" tvg-name="(+)GOLDEN PREMIER" tvg-logo="http://logo.panel.cx/logo/LATINO/GOLDENPREMIER.png" group-title="LATINO",GOLDEN PREMIER
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69081
+#EXTINF:-1 tvg-id="" tvg-name="(+)GLITZ" tvg-logo="http://logo.panel.cx/logo/LATINO/GLITZ.png" group-title="LATINO",GLITZ
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69080
+#EXTINF:-1 tvg-id="" tvg-name="(+)DISTRITO COMEDIA" tvg-logo="http://logo.panel.cx/logo/LATINO/DISTRITOCOMEDIA.png" group-title="LATINO",DISTRITO COMEDIA
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69079
+#EXTINF:-1 tvg-id="" tvg-name="(+)CLARO SPORT 2" tvg-logo="http://logo.panel.cx/logo/LATINO/CLAROSPORT.png" group-title="LATINO",CLARO SPORT 2
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69074
+#EXTINF:-1 tvg-id="" tvg-name="(+)CLARO SPORT" tvg-logo="http://logo.panel.cx/logo/LATINO/CLAROSPORT.png" group-title="LATINO",CLARO SPORT
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69073
+#EXTINF:-1 tvg-id="" tvg-name="(+)CLARO CINEMA" tvg-logo="http://logo.panel.cx/logo/LATINO/CLAROCINEMA.png" group-title="LATINO",CLARO CINEMA
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69071
+#EXTINF:-1 tvg-id="" tvg-name="(+)CINEMA DINAMITA" tvg-logo="http://logo.panel.cx/logo/LATINO/CINEMADINAMITA.png" group-title="LATINO",CINEMA DINAMITA
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69069
+#EXTINF:-1 tvg-id="" tvg-name="(+)ID" tvg-logo="http://logo.panel.cx/logo/LATINO/INVESTIGATIONDISCOVERY.png" group-title="LATINO",ID
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69068
+#EXTINF:-1 tvg-id="" tvg-name="(+)ID" tvg-logo="http://logo.panel.cx/logo/LATINO/INVESTIGATIONDISCOVERY.png" group-title="LATINO",ID
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69067
+#EXTINF:-1 tvg-id="" tvg-name="(+)AZTECA CLIC" tvg-logo="http://logo.panel.cx/logo/LATINO/AZTECACLIC.png" group-title="LATINO",AZTECA CLIC
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69066
+#EXTINF:-1 tvg-id="" tvg-name="(+)UNIVISION TELENOVELAS" tvg-logo="http://logo.panel.cx/logo/LATINO/UNIVERSALCHANNEL.png" group-title="LATINO",UNIVISION TELENOVELAS
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69065
+#EXTINF:-1 tvg-id="" tvg-name="(+)HBO ESTE" tvg-logo="http://logo.panel.cx/logo/LATINO/HBOTV.png" group-title="LATINO",HBO ESTE
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/69064
+#EXTINF:-1 tvg-id="" tvg-name="(+)TRACE CARIBBEAN" tvg-logo="http://logo.panel.cx/logo/AFRICA/CANAL+/TRACECARIBBEAN.png" group-title="LATINO",TRACE CARIBBEAN
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/195578
+#EXTINF:-1 tvg-id="" tvg-name="(+)TRACE LATINA" tvg-logo="http://logo.panel.cx/logo/AFRICA/CANAL+/TRACELATINA.png" group-title="LATINO",TRACE LATINA
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/195579
+#EXTINF:-1 tvg-id="EPG123.75278.schedulesdirect.org" tvg-name="(+)ADN40 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/ABN-40-1.png" group-title="MEXICO",ADN40 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140167
+#EXTINF:-1 tvg-id="EPG123.89542.schedulesdirect.org" tvg-name="(+)BBC WORLD NEWS " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/BBC.png" group-title="MEXICO",BBC WORLD NEWS 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140187
+#EXTINF:-1 tvg-id="antena3.mx" tvg-name="(+)ANTENA3 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/antena3-1.png" group-title="MEXICO",ANTENA3 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140172
+#EXTINF:-1 tvg-id="" tvg-name="(+)CADENA H " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/CADENA-H.png" group-title="MEXICO",CADENA H 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140189
+#EXTINF:-1 tvg-id="" tvg-name="(+)CADEND TV " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/CADENA-TV.png" group-title="MEXICO",CADEND TV 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140190
+#EXTINF:-1 tvg-id="" tvg-name="(+)CNN INTERNATIONAL " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/CNN_International.png" group-title="MEXICO",CNN INTERNATIONAL 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140235
+#EXTINF:-1 tvg-id="cnn.mx" tvg-name="(+)CNN " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/CNN_International.png" group-title="MEXICO",CNN 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140236
+#EXTINF:-1 tvg-id="antena3.mx" tvg-name="(+)ï»¿ANTENA 3 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/ANTENNA3.png" group-title="MEXICO",,ï»¿ANTENA 3 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140251
+#EXTINF:-1 tvg-id="EPG123.27741.schedulesdirect.org" tvg-name="(+)EUROPA EUROPA " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Europaeuropa.png" group-title="MEXICO",EUROPA EUROPA 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140261
+#EXTINF:-1 tvg-id="" tvg-name="(+)FRANCIA 24 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/FRANC24.png" group-title="MEXICO",FRANCIA 24 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140284
+#EXTINF:-1 tvg-id="" tvg-name="(+)AL JAZEERA " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Al-Jazeera.png" group-title="MEXICO",AL JAZEERA 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140169
+#EXTINF:-1 tvg-id="" tvg-name="(+)TV5 FRANCIA " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/FRANC24.png" group-title="MEXICO",TV5 FRANCIA 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140353
+#EXTINF:-1 tvg-id="" tvg-name="(+)AFORE AZTECA " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/AFOREAZTECA.png" group-title="MEXICO",AFORE AZTECA 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140168
+#EXTINF:-1 tvg-id="" tvg-name="(+)TP AZTECA UNO " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/TPAZTECA.png" group-title="MEXICO",TP AZTECA UNO 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140346
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="(+)AZTECA 7 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/azteca7-1.png" group-title="MEXICO",AZTECA 7 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140178
+#EXTINF:-1 tvg-id="azclic.mx" tvg-name="(+)AZTECA CLICK " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/AZCLC.png" group-title="MEXICO",AZTECA CLICK 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140179
+#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="(+)AZTECA CORAZON " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/_Azteca_Coraz%C3%B3n.png" group-title="MEXICO",AZTECA CORAZON 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140180
+#EXTINF:-1 tvg-id="" tvg-name="(+)AZTECA DEPORTES " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/AZSINCOPY.png" group-title="MEXICO",AZTECA DEPORTES 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140181
+#EXTINF:-1 tvg-id="aztecamundo.mx" tvg-name="(+)AZTECA MUNDO " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/AZ-MUNDO.png" group-title="MEXICO",AZTECA MUNDO 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140182
+#EXTINF:-1 tvg-id="azcinema.mx" tvg-name="(+)AZ CINEMA " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/AZ-CINEMA.png" group-title="MEXICO",AZ CINEMA 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140174
+#EXTINF:-1 tvg-id="azclic.mx" tvg-name="(+)AZ CLIC B1 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/AZ-CLIC-1.png" group-title="MEXICO",AZ CLIC B1 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140175
+#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="(+)AZ CORAZON " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/azteca-corazon-1.png" group-title="MEXICO",AZ CORAZON 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140176
+#EXTINF:-1 tvg-id="aztecamundo.mx" tvg-name="(+)AZ MUNDO " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/AZ-MUNDO.png" group-title="MEXICO",AZ MUNDO 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140177
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL ONCE " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal-Once.png" group-title="MEXICO",CANAL ONCE 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140198
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL DE LAS ESTRELLAS " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Las_Estrellas.png" group-title="MEXICO",CANAL DE LAS ESTRELLAS 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140196
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL JUDICIAL " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal_JUDICIAL.png" group-title="MEXICO",CANAL JUDICIAL 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140197
+#EXTINF:-1 tvg-id="" tvg-name="(+)TP CANAL ONCE " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/CANALONCE.png" group-title="MEXICO",TP CANAL ONCE 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140349
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL 4 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal_4.png" group-title="MEXICO",CANAL 4 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140192
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL 5 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal5.png" group-title="MEXICO",CANAL 5 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140193
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL 7 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/CANAL7.png" group-title="MEXICO",CANAL 7 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140194
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL 8 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/CANAL8.png" group-title="MEXICO",CANAL 8 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140195
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL 26 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal26.png" group-title="MEXICO",CANAL 26 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140191
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL44 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal-.png" group-title="MEXICO",CANAL44 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140224
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL107 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal107.png" group-title="MEXICO",CANAL107 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140200
+#EXTINF:-1 tvg-id="" tvg-name="(+)TP CANAL 109 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/CANALONCE.png" group-title="MEXICO",TP CANAL 109 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140347
+#EXTINF:-1 tvg-id="" tvg-name="(+)TP CANAL 113 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/CANALONCE.png" group-title="MEXICO",TP CANAL 113 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140348
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL113 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal113.png" group-title="MEXICO",CANAL113 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140202
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL211 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal-.png" group-title="MEXICO",CANAL211 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140212
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL270 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal-.png" group-title="MEXICO",CANAL270 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140221
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL401 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal-.png" group-title="MEXICO",CANAL401 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140223
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL470 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal-.png" group-title="MEXICO",CANAL470 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140225
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL481 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal-.png" group-title="MEXICO",CANAL481 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140226
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL490 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal-.png" group-title="MEXICO",CANAL490 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140227
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL556 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal-.png" group-title="MEXICO",CANAL556 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140228
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL667 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal-.png" group-title="MEXICO",CANAL667 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140230
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL766 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal-.png" group-title="MEXICO",CANAL766 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140231
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL1749 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal-.png" group-title="MEXICO",CANAL1749 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140203
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL1755 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal-.png" group-title="MEXICO",CANAL1755 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140204
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL1899 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Las_Estrellas.png" group-title="MEXICO",CANAL1899 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140206
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL1932 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal-.png" group-title="MEXICO",CANAL1932 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140207
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL1944 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal-.png" group-title="MEXICO",CANAL1944 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140208
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL2062 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal-.png" group-title="MEXICO",CANAL2062 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140210
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL2089 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal-.png" group-title="MEXICO",CANAL2089 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140211
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL2113 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal-.png" group-title="MEXICO",CANAL2113 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140213
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL2145 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal-.png" group-title="MEXICO",CANAL2145 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140214
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL2278 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal-.png" group-title="MEXICO",CANAL2278 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140215
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL2319 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal-.png" group-title="MEXICO",CANAL2319 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140216
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL2331 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal-.png" group-title="MEXICO",CANAL2331 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140217
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL2336 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal-.png" group-title="MEXICO",CANAL2336 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140219
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL2355 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal-.png" group-title="MEXICO",CANAL2355 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140220
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL9999 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal-.png" group-title="MEXICO",CANAL9999 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140232
+#EXTINF:-1 tvg-id="" tvg-name="(+)CANAL66679 " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Canal-.png" group-title="MEXICO",CANAL66679 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140229
+#EXTINF:-1 tvg-id="EPG123.74574.schedulesdirect.org" tvg-name="(+)FOX ACTION " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/FoX.png" group-title="MEXICO",FOX ACTION 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140268
+#EXTINF:-1 tvg-id="EPG123.71662.schedulesdirect.org" tvg-name="(+)FOX CINEMA " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/FoX.png" group-title="MEXICO",FOX CINEMA 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140270
+#EXTINF:-1 tvg-id="EPG123.44028.schedulesdirect.org" tvg-name="(+)FOX CLASSICS " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Foxclassic.png" group-title="MEXICO",FOX CLASSICS 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140271
+#EXTINF:-1 tvg-id="EPG123.49263.schedulesdirect.org" tvg-name="(+)FOX LIFE " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Fox_life.png" group-title="MEXICO",FOX LIFE 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140272
+#EXTINF:-1 tvg-id="EPG123.49263.schedulesdirect.org" tvg-name="(+)FOX LIFE " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/Fox_life.png" group-title="MEXICO",FOX LIFE 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140273
+#EXTINF:-1 tvg-id="EPG123.58833.schedulesdirect.org" tvg-name="(+)FOX MOVIES " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/FOXMOVIES.png" group-title="MEXICO",FOX MOVIES 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140274
+#EXTINF:-1 tvg-id="Canal Fox News" tvg-name="(+)FOX NEWS " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/FOXNEWSCHANNEL.png" group-title="MEXICO",FOX NEWS 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140275
+#EXTINF:-1 tvg-id="" tvg-name="(+)FOX SERIES " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/STARSERIES.png" group-title="MEXICO",FOX SERIES 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140276
+#EXTINF:-1 tvg-id="Canal FX" tvg-name="(+)FX " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/FX.png" group-title="MEXICO",FX 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140285
+#EXTINF:-1 tvg-id="EPG123.14988.schedulesdirect.org" tvg-name="(+)FXM " tvg-logo="http://logo.panel.cx/logo/LATINO/MEXICO/FXM.png" group-title="MEXICO",FXM 
+http://server.mtbplusiptv.com:80/00mtb001/AuxBBqMDjceOJLN/140286
