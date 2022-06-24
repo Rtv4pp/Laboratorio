@@ -1,22 +1,42 @@
+
+
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta charset=utf-8 />
-<title>videojs-contrib-hls embed</title>
+<title>BAND - Ao Vivo</title>
+<script type="text/javascript" src="https://code.jquery.com/jquery-latest.js"></script>
 
-  <link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
-  <script src="https://unpkg.com/video.js/dist/video.js"></script>
-  <script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script>
-
-</head>
+<body bgcolor="black">
 <body>
-  <video id="my_video_1" class="video-js vjs-default-skin" controls preload="auto" width="300px" height="400px" 
-  data-setup='{}'>
-    <source src="" type="application/x-mpegURL">
-  </video>
 
-  <script>
-  </script>
+<script type="text/javascript" src="https://xstream.click/jwplayer7/jwplayer.js"></script>
+<script type="text/javascript">jwplayer.key="L/zil9ctju48D4r29IatrvcP6PSPoA03Be2G8A==";</script>
+
+<div id="xstreamjwplayer">Loading the player...</div>
+<div id='xstreamjwplayer'></div>
+<script type='text/javascript'>
+    jwplayer('xstreamjwplayer').setup({
+        file: 'http://prvott.xyz:8080/live/ZtpNJkkCCgB3/n5kcFCDymhvP/77994.m3u8',
+	title: "",
+        image: '',
+        width: '560',
+        height: '384',
+        logo: {
+        file: '',
+        position: 'bottom-right',
+        margin: '',
+        over: '0',
+        out: '0.5',
+        link: ''
+        },
+        aspectratio: '16:9',
+        abouttext: '',
+        aboutlink: '',
+        autostart: 'true'
+    });
+</script>
+
 
 </body>
 </html>
+
