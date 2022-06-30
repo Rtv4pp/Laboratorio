@@ -7,6 +7,11 @@
       background-color:#363636;
       color:white;
     }
+    audio::-webkit-media-controls-timeline,
+    video::-webkit-media-controls-timeline {
+      display: none;
+    }
+    
       video {
         min-height: 250px; max-height: 800px;
         min-width: 100px; max-width: 100%;
@@ -31,13 +36,16 @@
       }
     </style>
     <script>
-      function Cartoon (){
+      var vid = document.getElementById('myVid');
+      
+      function Canal (){
         document.getElementById('myVid').src ="http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus";
+        vid.play();
       }
     </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-   <title>Servidor HLS</title> 
+   <title>Servidor Teste</title> 
   </head>
   <body>
     <header>
@@ -49,10 +57,12 @@
     <hr>
     <main>
       <center>
-      <video id="myVid" controls>
+        
+      <video id="myVid"   controls controlsList="noplaybackrate nodownload" preload="none" controls>
         <source src="#" type="video/mp4">
      </video>
-     <button onclick="Cartoon()">Canal 1</button>
+     
+     <button onclick="Canal()">Canal 1</button>
      <button onclick="">Canal 2</button>
      <button onclick="">Canal 3</button>
      <button onclick="">Canal 4</button>
