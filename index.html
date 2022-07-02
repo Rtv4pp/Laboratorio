@@ -7,97 +7,16 @@
       background-color:#363636;
       color:white;
     }
-    audio::-webkit-media-controls-timeline,
-    video::-webkit-media-controls-timeline {
-      display: none;
-    }
-    
-      video {
-        min-height: 250px; max-height: 800px;
-        min-width: 100px; max-width: 100%;
-      }
-      h6{
-        padding: 0px; margin: 0px;
-      }
-      h3 {
-        padding: 0px; margin: 0px;
-      }
-      main {
-        margin: auto;
-        padding: 5px;
-        display: inline-block;
-      }
-      hr {
-        margin: 5px;
-      }
-      button {
-        width: 80px; height: 30px;
-        
-      }
-      p {
-        padding: 0px; margin: 0px;
-      }
-      #pg{
-        color:red;
-      }
     </style>
-    <script>
-      var vid = document.getElementById('myVid');
-      
-      function Canal1 (){
-        document.getElementById("pg").textContent="Canal Premiere 1";
-        document.getElementById("pg").style.color="green";
-        document.getElementById('myVid').src ="http://prvott.xyz:8080/live/ZtpNJkkCCgB3/n5kcFCDymhvP/77897.m3u8";
-        vid.play();
-      }
-
-      function Canal2 (){
-        document.getElementById("pg").textContent="Canal Premiere 2";
-        document.getElementById("pg").style.color="green";
-        document.getElementById('myVid').src ="http://prvott.xyz:8080/live/ZtpNJkkCCgB3/n5kcFCDymhvP/77895.m3u8";
-        vid.play();
-      }
-      function Canal3 (){
-        document.getElementById("pg").textContent="Canal Premiere 3";
-        document.getElementById("pg").style.color="green";
-        document.getElementById('miVid').src="http://prvott.xyz:8080/live/ZtpNJkkCCgB3/n5kcFCDymhvP/78130.m3u8";
-        vid.play();
-      }
-    </script>
-    <script>
-      video.addEventListener("myVid", function() {
-    console.log("[Playing] loading of video");
-    if ( video.readyState == 4 ) {
-        console.log("[Finished] loading of video");
-    }
-    </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-   <title>Servidor Teste</title> 
+   <title>Servidor Rai</title> 
   </head>
   <body>
-    <header>
-      <center>
-    <h3>Servidor Teste</h3>
-    <p>Dev: Rai</p>
-    <p>Plataforma de código aberto</p>
+    <center>
+    <p style="background-color:yellow; border-radius:10px; color:black;">Você pode usar nosso embed em seu site.</p>
+    <br>
+    <p>Para usar nosso embed em seu site use a tag "iframe" e coleque o src"http://www.rtvapp.tk/(pagina do cana)" <br> ex: src="http://www.rtvapp.tk/Sportv1"</p>
     </center>
-    </header>
-    <hr>
-    <main>
-      <center>
-        
-      <video id="myVid"   controls controlsList="noplaybackrate nodownload" preload="none" controls>
-        <source type="application/x-mpegURL" src="http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-">
-     </video><div>
-     <span id="pg">Nenhum canal selecionado!</span></div>
-     
-     <button onclick="Canal1()">Canal 1</button>
-     <button onclick="Canal2()">Canal 2</button>
-     <button onclick="Canal3()">Canal 3</button>
-     <button onclick="">Canal 4</button>
-     </center>
-  </main>
   </body>
 </html>
